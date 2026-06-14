@@ -1,0 +1,4521 @@
+WEBVTT
+
+NOTE Netflix
+NOTE Profile: webvtt-lssdh-ios8
+NOTE Date: 2022/03/25 01:13:55
+
+NOTE SegmentIndex
+NOTE Segment=597.097 40509@498 248
+NOTE Segment=594.761 43551@41007 269
+NOTE Segment=596.512 40055@84558 248
+NOTE Segment=595.595 42980@124613 264
+NOTE Segment=272.314 16031@167593 97
+NOTE /SegmentIndex
+
+                                                                                                                                                                                         
+
+
+1
+00:00:01.440 --> 00:00:05.638 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>SISKO:</c.mono_sans></c.white><c.white><c.mono_sans><i> Captain's Log,</i></c.mono_sans></c.white>
+
+2
+00:00:01.440 --> 00:00:05.638 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans><i>Stardate 51145.3.</i></c.mono_sans></c.white>
+
+3
+00:00:05.739 --> 00:00:08.198 position:19.52%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans><i>The</i></c.mono_sans></c.white><c.white><c.mono_sans> Defiant</c.mono_sans></c.white><c.white><c.mono_sans><i> has been operating</i></c.mono_sans></c.white>
+
+4
+00:00:05.739 --> 00:00:08.198 position:19.52%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans><i>out of Starbase 375</i></c.mono_sans></c.white>
+
+5
+00:00:09.137 --> 00:00:11.878 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans><i>conducting forays</i></c.mono_sans></c.white>
+
+6
+00:00:09.137 --> 00:00:11.878 position:19.52%,start align:start size:69.05% line:15.33% 
+<c.white><c.mono_sans><i>into Dominion controlled space.</i></c.mono_sans></c.white>
+
+7
+00:00:12.397 --> 00:00:14.518 position:34.76%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans><i>While the missions</i></c.mono_sans></c.white>
+
+8
+00:00:12.397 --> 00:00:14.518 position:23.33%,start align:start size:67.14% line:15.33% 
+<c.white><c.mono_sans><i>have taken a toll on my people</i></c.mono_sans></c.white>
+
+9
+00:00:14.996 --> 00:00:18.258 position:30.95%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans><i>they remain determined</i></c.mono_sans></c.white>
+
+10
+00:00:14.996 --> 00:00:18.258 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans><i>to do whatever it takes</i></c.mono_sans></c.white>
+
+11
+00:00:14.996 --> 00:00:18.258 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans><i>to win this war</i></c.mono_sans></c.white>
+
+12
+00:00:19.275 --> 00:00:20.435 position:44.29%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans><i>as do I.</i></c.mono_sans></c.white>
+
+13
+00:00:21.915 --> 00:00:22.954 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>NOG: Here you are.</c.mono_sans></c.white>
+
+14
+00:00:23.274 --> 00:00:25.272 position:27.14%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>Where did you get your hands</c.mono_sans></c.white>
+
+15
+00:00:23.274 --> 00:00:25.272 position:46.19%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>on Saurian brandy?</c.mono_sans></c.white>
+
+16
+00:00:25.472 --> 00:00:26.752 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>In the middle of a war, no less.</c.mono_sans></c.white>
+
+17
+00:00:27.312 --> 00:00:28.672 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>It's a busy star base.</c.mono_sans></c.white>
+
+18
+00:00:29.191 --> 00:00:31.792 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>I may be a cadet,</c.mono_sans></c.white>
+
+19
+00:00:29.191 --> 00:00:31.792 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>but I'm still a Ferengi.</c.mono_sans></c.white>
+
+20
+00:00:32.071 --> 00:00:33.231 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Lucky for us.</c.mono_sans></c.white>
+
+21
+00:00:42.281 --> 00:00:43.182 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>Excuse me, Captain.</c.mono_sans></c.white>
+
+22
+00:00:43.906 --> 00:00:45.346 position:32.86%,start align:start size:46.19% line:10.00% 
+<c.white><c.mono_sans>The power cell from</c.mono_sans></c.white>
+
+23
+00:00:43.906 --> 00:00:45.346 position:34.76%,start align:start size:42.38% line:15.33% 
+<c.white><c.mono_sans>the phaser array.</c.mono_sans></c.white>
+
+24
+00:00:46.267 --> 00:00:47.667 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>We used it up on</c.mono_sans></c.white>
+
+25
+00:00:46.267 --> 00:00:47.667 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>the last mission.</c.mono_sans></c.white>
+
+26
+00:00:52.365 --> 00:00:56.848 position:27.14%,start align:start size:57.62% line:73.96% 
+<c.white><c.mono_sans>Take a good look at this,</c.mono_sans></c.white>
+
+27
+00:00:52.365 --> 00:00:56.848 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>people. It says something</c.mono_sans></c.white>
+
+28
+00:00:52.365 --> 00:00:56.848 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>about this ship.</c.mono_sans></c.white>
+
+29
+00:00:58.063 --> 00:00:59.504 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>It says that we will fight</c.mono_sans></c.white>
+
+30
+00:01:00.403 --> 00:01:03.745 position:23.33%,start align:start size:63.33% line:10.00% 
+<c.white><c.mono_sans>and we will keep on fighting</c.mono_sans></c.white>
+
+31
+00:01:00.403 --> 00:01:03.745 position:23.33%,start align:start size:65.24% line:15.33% 
+<c.white><c.mono_sans>until we can't fight anymore.</c.mono_sans></c.white>
+
+32
+00:01:04.388 --> 00:01:05.521 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>CREW: Yes, sir.</c.mono_sans></c.white>
+
+33
+00:01:05.701 --> 00:01:07.882 position:42.38%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>You don't just throw</c.mono_sans></c.white>
+
+34
+00:01:05.701 --> 00:01:07.882 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>something like this away.</c.mono_sans></c.white>
+
+35
+00:01:08.300 --> 00:01:09.820 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>CREW: No, sir.</c.mono_sans></c.white>
+
+36
+00:01:13.419 --> 00:01:14.937 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>( all cheer )</c.mono_sans></c.white>
+
+37
+00:01:18.418 --> 00:01:19.816 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Admiral on deck.</c.mono_sans></c.white>
+
+38
+00:01:20.896 --> 00:01:21.896 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>As you were.</c.mono_sans></c.white>
+
+39
+00:01:22.696 --> 00:01:23.735 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Ben.</c.mono_sans></c.white>
+
+40
+00:01:24.589 --> 00:01:25.015 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Admiral.</c.mono_sans></c.white>
+
+41
+00:01:25.975 --> 00:01:27.574 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>Um, let's, uh, take a walk.</c.mono_sans></c.white>
+
+42
+00:01:30.396 --> 00:01:31.376 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>What was going on in there?</c.mono_sans></c.white>
+
+43
+00:01:31.833 --> 00:01:35.755 position:30.95%,start align:start size:48.10% line:73.96% 
+<c.white><c.mono_sans>Just a little ritual</c.mono_sans></c.white>
+
+44
+00:01:31.833 --> 00:01:35.755 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>we fell into. It kind of helps</c.mono_sans></c.white>
+
+45
+00:01:31.833 --> 00:01:35.755 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>the crew unwind.</c.mono_sans></c.white>
+
+46
+00:01:35.793 --> 00:01:37.471 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>Well, they deserve it.</c.mono_sans></c.white>
+
+47
+00:01:35.793 --> 00:01:37.471 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>They did a hell of a job.</c.mono_sans></c.white>
+
+48
+00:01:37.592 --> 00:01:38.212 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>Thank you, sir.</c.mono_sans></c.white>
+
+49
+00:01:39.351 --> 00:01:41.532 position:34.76%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>But you didn't come here</c.mono_sans></c.white>
+
+50
+00:01:39.351 --> 00:01:41.532 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>to tell me that, did you?</c.mono_sans></c.white>
+
+51
+00:01:44.051 --> 00:01:45.760 position:38.57%,start align:start size:32.86% line:79.29% 
+<c.white><c.mono_sans>( chuckles )</c.mono_sans></c.white>
+
+52
+00:01:44.051 --> 00:01:45.760 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>No, I didn't.</c.mono_sans></c.white>
+
+53
+00:01:46.028 --> 00:01:47.949 position:30.95%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>Ever since this war began,</c.mono_sans></c.white>
+
+54
+00:01:46.028 --> 00:01:47.949 position:34.76%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>the Dominion's been able</c.mono_sans></c.white>
+
+55
+00:01:47.949 --> 00:01:49.240 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>to outmaneuver us at every turn.</c.mono_sans></c.white>
+
+56
+00:01:49.448 --> 00:01:50.608 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>Wherever we send our ships</c.mono_sans></c.white>
+
+57
+00:01:50.608 --> 00:01:52.078 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>they seem to be</c.mono_sans></c.white>
+
+58
+00:01:50.608 --> 00:01:52.078 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>there waiting for us.</c.mono_sans></c.white>
+
+59
+00:01:52.449 --> 00:01:54.168 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I've noticed that.</c.mono_sans></c.white>
+
+60
+00:01:54.168 --> 00:01:55.817 position:19.52%,start align:start size:69.05% line:73.96% 
+<c.white><c.mono_sans>It was enough to make you think</c.mono_sans></c.white>
+
+61
+00:01:54.168 --> 00:01:55.817 position:19.52%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>that they were smarter</c.mono_sans></c.white>
+
+62
+00:01:54.168 --> 00:01:55.817 position:19.52%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>than we are.</c.mono_sans></c.white>
+
+63
+00:01:56.325 --> 00:01:56.925 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>But they're not.</c.mono_sans></c.white>
+
+64
+00:01:57.291 --> 00:01:59.552 position:30.95%,start align:start size:50.00% line:73.96% 
+<c.white><c.mono_sans>They just had an edge</c.mono_sans></c.white>
+
+65
+00:01:57.291 --> 00:01:59.552 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>that we didn't know</c.mono_sans></c.white>
+
+66
+00:01:57.291 --> 00:01:59.552 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>anything about...</c.mono_sans></c.white>
+
+67
+00:02:00.345 --> 00:02:01.365 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Until yesterday.</c.mono_sans></c.white>
+
+68
+00:02:01.983 --> 00:02:05.263 position:29.05%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans>Starfleet Intelligence</c.mono_sans></c.white>
+
+69
+00:02:01.983 --> 00:02:05.263 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>has located a massive</c.mono_sans></c.white>
+
+70
+00:02:01.983 --> 00:02:05.263 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>sensor array</c.mono_sans></c.white>
+
+71
+00:02:05.263 --> 00:02:07.264 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>hidden on the periphery</c.mono_sans></c.white>
+
+72
+00:02:05.263 --> 00:02:07.264 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>of the Argolis Cluster.</c.mono_sans></c.white>
+
+73
+00:02:07.264 --> 00:02:11.155 position:25.24%,start align:start size:61.43% line:73.96% 
+<c.white><c.mono_sans>The damn thing's capable of</c.mono_sans></c.white>
+
+74
+00:02:07.264 --> 00:02:11.155 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>monitoring ship movements</c.mono_sans></c.white>
+
+75
+00:02:07.264 --> 00:02:11.155 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>over five sectors.</c.mono_sans></c.white>
+
+76
+00:02:11.606 --> 00:02:14.243 position:36.67%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>That's how they managed</c.mono_sans></c.white>
+
+77
+00:02:11.606 --> 00:02:14.243 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>to stay one step ahead of us.</c.mono_sans></c.white>
+
+78
+00:02:14.243 --> 00:02:16.853 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>They've had an enormous</c.mono_sans></c.white>
+
+79
+00:02:14.243 --> 00:02:16.853 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>tactical advantage.</c.mono_sans></c.white>
+
+80
+00:02:18.059 --> 00:02:19.380 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>I want you to take it</c.mono_sans></c.white>
+
+81
+00:02:18.059 --> 00:02:19.380 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>away from them.</c.mono_sans></c.white>
+
+82
+00:02:19.959 --> 00:02:21.008 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>Gladly, sir.</c.mono_sans></c.white>
+
+83
+00:02:21.099 --> 00:02:23.419 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>BEN: It won't be easy.</c.mono_sans></c.white>
+
+84
+00:02:21.099 --> 00:02:23.419 position:23.33%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>The array is heavily defended.</c.mono_sans></c.white>
+
+85
+00:02:24.657 --> 00:02:27.278 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>This is the intelligence report.</c.mono_sans></c.white>
+
+86
+00:02:24.657 --> 00:02:27.278 position:19.52%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Look it over.</c.mono_sans></c.white>
+
+87
+00:02:28.176 --> 00:02:30.576 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>I want an attack plan</c.mono_sans></c.white>
+
+88
+00:02:28.176 --> 00:02:30.576 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>on my desk by 0800.</c.mono_sans></c.white>
+
+89
+00:02:30.975 --> 00:02:31.974 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>You'll have it.</c.mono_sans></c.white>
+
+90
+00:02:43.531 --> 00:02:44.691 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>ROM: There he is.</c.mono_sans></c.white>
+
+91
+00:02:44.732 --> 00:02:46.651 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>Damar's a creature of habit,</c.mono_sans></c.white>
+
+92
+00:02:44.732 --> 00:02:46.651 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>all right.</c.mono_sans></c.white>
+
+93
+00:02:46.690 --> 00:02:50.849 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>KIRA: After a hard day at work,</c.mono_sans></c.white>
+
+94
+00:02:46.690 --> 00:02:50.849 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>he deserves his glass of</c.mono_sans></c.white><c.white><c.mono_sans><i> kanar.</i></c.mono_sans></c.white>
+
+95
+00:02:52.128 --> 00:02:56.287 position:38.57%,start align:start size:32.86% line:73.96% 
+<c.white><c.mono_sans>"Why are the</c.mono_sans></c.white>
+
+96
+00:02:52.128 --> 00:02:56.287 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>Jem'Hadar always in here?"</c.mono_sans></c.white>
+
+97
+00:02:52.128 --> 00:02:56.287 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>He asks himself.</c.mono_sans></c.white>
+
+98
+00:02:56.572 --> 00:02:59.407 position:34.76%,start align:start size:42.38% line:73.96% 
+<c.white><c.mono_sans>They don't drink.</c.mono_sans></c.white>
+
+99
+00:02:56.572 --> 00:02:59.407 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>They don't eat.</c.mono_sans></c.white>
+
+100
+00:02:56.572 --> 00:02:59.407 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>They don't gamble.</c.mono_sans></c.white>
+
+101
+00:02:59.447 --> 00:03:03.645 position:25.24%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>All they do is take up space.</c.mono_sans></c.white>
+
+102
+00:02:59.447 --> 00:03:03.645 position:34.76%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>Damar asks his bartender</c.mono_sans></c.white>
+
+103
+00:03:03.645 --> 00:03:05.915 position:19.52%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>KIRA: if he found a padd</c.mono_sans></c.white>
+
+104
+00:03:03.645 --> 00:03:05.915 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>he was working on the other day.</c.mono_sans></c.white>
+
+105
+00:03:06.125 --> 00:03:08.524 position:19.52%,start align:start size:70.95% line:10.00% 
+<c.white><c.mono_sans>ROM: My brother tells the truth.</c.mono_sans></c.white>
+
+106
+00:03:06.125 --> 00:03:08.524 position:32.86%,start align:start size:44.29% line:15.33% 
+<c.white><c.mono_sans>He hasn't seen it.</c.mono_sans></c.white>
+
+107
+00:03:08.544 --> 00:03:12.406 position:34.76%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>Damar doesn't like that.</c.mono_sans></c.white>
+
+108
+00:03:08.544 --> 00:03:12.406 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>The padd contained a draft copy</c.mono_sans></c.white>
+
+109
+00:03:12.406 --> 00:03:15.936 position:29.05%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans>of a secret memorandum</c.mono_sans></c.white>
+
+110
+00:03:12.406 --> 00:03:15.936 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>he was working on concerning</c.mono_sans></c.white>
+
+111
+00:03:12.406 --> 00:03:15.936 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>the shortage of white.</c.mono_sans></c.white>
+
+112
+00:03:16.823 --> 00:03:20.586 position:25.24%,start align:start size:59.52% line:73.96% 
+<c.white><c.mono_sans>In it, he speculates that,</c.mono_sans></c.white>
+
+113
+00:03:16.823 --> 00:03:20.586 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>without the drug the Jem'Hadar</c.mono_sans></c.white>
+
+114
+00:03:16.823 --> 00:03:20.586 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>will run amok</c.mono_sans></c.white>
+
+115
+00:03:20.621 --> 00:03:22.382 position:21.43%,start align:start size:69.05% line:10.00% 
+<c.white><c.mono_sans>killing everyone and everything</c.mono_sans></c.white>
+
+116
+00:03:20.621 --> 00:03:22.382 position:36.67%,start align:start size:36.67% line:15.33% 
+<c.white><c.mono_sans>in their path.</c.mono_sans></c.white>
+
+117
+00:03:23.300 --> 00:03:26.962 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>Damar recommends that if</c.mono_sans></c.white>
+
+118
+00:03:23.300 --> 00:03:26.962 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>the Cardassians can't</c.mono_sans></c.white>
+
+119
+00:03:23.300 --> 00:03:26.962 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>bring down the minefield</c.mono_sans></c.white>
+
+120
+00:03:26.962 --> 00:03:29.242 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>and reopen the supply-line</c.mono_sans></c.white>
+
+121
+00:03:26.962 --> 00:03:29.242 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>from the Gamma Quadrant</c.mono_sans></c.white>
+
+122
+00:03:29.242 --> 00:03:32.331 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>they should poison</c.mono_sans></c.white>
+
+123
+00:03:29.242 --> 00:03:32.331 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>the last ration of white</c.mono_sans></c.white>
+
+124
+00:03:32.721 --> 00:03:35.400 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>eliminating the Jem'Hadar</c.mono_sans></c.white>
+
+125
+00:03:32.721 --> 00:03:35.400 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>before it's too late.</c.mono_sans></c.white>
+
+126
+00:03:35.672 --> 00:03:38.213 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>How did you get a hold</c.mono_sans></c.white>
+
+127
+00:03:35.672 --> 00:03:38.213 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>of Damar's padd anyway?</c.mono_sans></c.white>
+
+128
+00:03:38.446 --> 00:03:40.156 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>I'm good with my hands.</c.mono_sans></c.white>
+
+129
+00:03:42.234 --> 00:03:42.634 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Here we go.</c.mono_sans></c.white>
+
+130
+00:03:44.193 --> 00:03:46.233 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>They've seen him.</c.mono_sans></c.white>
+
+131
+00:03:47.273 --> 00:03:48.673 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>JEM'HADAR: Damar.</c.mono_sans></c.white>
+
+132
+00:03:49.312 --> 00:03:51.373 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>KIRA: The missing padd.</c.mono_sans></c.white>
+
+133
+00:03:51.191 --> 00:03:52.750 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>DAMAR: Where'd you find that?</c.mono_sans></c.white>
+
+134
+00:03:53.351 --> 00:03:55.310 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>KIRA: Damar accuses</c.mono_sans></c.white>
+
+135
+00:03:53.351 --> 00:03:55.310 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>them of stealing it.</c.mono_sans></c.white>
+
+136
+00:03:55.310 --> 00:03:57.541 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>ROM: But they say they found it</c.mono_sans></c.white>
+
+137
+00:03:55.310 --> 00:03:57.541 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>outside their quarters...</c.mono_sans></c.white>
+
+138
+00:03:57.569 --> 00:03:58.970 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Right where I left it.</c.mono_sans></c.white>
+
+139
+00:03:59.929 --> 00:04:02.408 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>DAMAR: Have you and your</c.mono_sans></c.white>
+
+140
+00:03:59.929 --> 00:04:02.408 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>whole race thrown off</c.mono_sans></c.white>
+
+141
+00:03:59.929 --> 00:04:02.408 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>of this station!</c.mono_sans></c.white>
+
+142
+00:04:02.788 --> 00:04:06.747 position:21.43%,start align:start size:67.14% line:73.96% 
+<c.white><c.mono_sans>I knew this was going to work.</c.mono_sans></c.white>
+
+143
+00:04:02.788 --> 00:04:06.747 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>The Cardassians</c.mono_sans></c.white>
+
+144
+00:04:02.788 --> 00:04:06.747 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>and the Jem'Hadar</c.mono_sans></c.white>
+
+145
+00:04:06.747 --> 00:04:08.198 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>can pretend to be allies...</c.mono_sans></c.white>
+
+146
+00:04:08.507 --> 00:04:09.587 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>But they hate each other.</c.mono_sans></c.white>
+
+147
+00:04:09.826 --> 00:04:10.705 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>DAMAR: Get out of my way!</c.mono_sans></c.white>
+
+148
+00:04:10.745 --> 00:04:11.825 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>( Quark screaming )</c.mono_sans></c.white>
+
+149
+00:04:11.865 --> 00:04:12.945 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>Ow.</c.mono_sans></c.white>
+
+150
+00:04:18.104 --> 00:04:19.943 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>( cries out )</c.mono_sans></c.white>
+
+151
+00:04:20.503 --> 00:04:21.862 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>( groans )</c.mono_sans></c.white>
+
+152
+00:06:23.946 --> 00:06:25.545 position:23.33%,start align:start size:67.14% line:10.00% 
+<c.white><c.mono_sans>DAMAR: When I confronted them,</c.mono_sans></c.white>
+
+153
+00:06:23.946 --> 00:06:25.545 position:48.10%,start align:start size:42.38% line:15.33% 
+<c.white><c.mono_sans>they attacked me.</c.mono_sans></c.white>
+
+154
+00:06:25.545 --> 00:06:26.855 position:25.24%,start align:start size:61.43% line:10.00% 
+<c.white><c.mono_sans>I don't care what they did.</c.mono_sans></c.white>
+
+155
+00:06:27.944 --> 00:06:29.904 position:32.86%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>You should never have let</c.mono_sans></c.white>
+
+156
+00:06:27.944 --> 00:06:29.904 position:21.43%,start align:start size:69.05% line:15.33% 
+<c.white><c.mono_sans>this situation get out of hand.</c.mono_sans></c.white>
+
+157
+00:06:29.943 --> 00:06:30.903 position:42.38%,start align:start size:25.24% line:10.00% 
+<c.white><c.mono_sans>Get out!</c.mono_sans></c.white>
+
+158
+00:06:39.621 --> 00:06:44.844 position:32.86%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans>How could Damar be</c.mono_sans></c.white>
+
+159
+00:06:39.621 --> 00:06:44.844 position:23.33%,start align:start size:65.24% line:15.33% 
+<c.white><c.mono_sans>so stupid as to leave such an</c.mono_sans></c.white>
+
+160
+00:06:39.621 --> 00:06:44.844 position:30.95%,start align:start size:50.00% line:20.66% 
+<c.white><c.mono_sans>inflammatory document</c.mono_sans></c.white>
+
+161
+00:06:45.058 --> 00:06:46.699 position:19.52%,start align:start size:70.95% line:10.00% 
+<c.white><c.mono_sans>lying around for anyone to find?</c.mono_sans></c.white>
+
+162
+00:06:46.739 --> 00:06:48.218 position:25.24%,start align:start size:61.43% line:10.00% 
+<c.white><c.mono_sans>Your men stole it from him.</c.mono_sans></c.white>
+
+163
+00:06:48.218 --> 00:06:50.838 position:25.24%,start align:start size:61.43% line:10.00% 
+<c.white><c.mono_sans>-Jem'Hadar are not thieves.</c.mono_sans></c.white>
+
+164
+00:06:48.218 --> 00:06:50.838 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans>-And Damar is not a liar.</c.mono_sans></c.white>
+
+165
+00:06:50.838 --> 00:06:52.418 position:30.95%,start align:start size:50.00% line:10.00% 
+<c.white><c.mono_sans>Keep your voice down.</c.mono_sans></c.white>
+
+166
+00:06:55.957 --> 00:07:01.796 position:57.62%,start align:start size:32.86% line:10.00% 
+<c.white><c.mono_sans>Our men need</c.mono_sans></c.white>
+
+167
+00:06:55.957 --> 00:07:01.796 position:21.43%,start align:start size:69.05% line:15.33% 
+<c.white><c.mono_sans>to see that we're still allies.</c.mono_sans></c.white>
+
+168
+00:07:03.474 --> 00:07:04.554 position:44.29%,start align:start size:21.43% line:10.00% 
+<c.white><c.mono_sans>Smile.</c.mono_sans></c.white>
+
+169
+00:07:06.313 --> 00:07:07.193 position:44.29%,start align:start size:21.43% line:10.00% 
+<c.white><c.mono_sans>Dukat.</c.mono_sans></c.white>
+
+170
+00:07:07.331 --> 00:07:08.892 position:38.57%,start align:start size:32.86% line:10.00% 
+<c.white><c.mono_sans>I'm smiling.</c.mono_sans></c.white>
+
+171
+00:07:08.892 --> 00:07:10.983 position:30.95%,start align:start size:48.10% line:10.00% 
+<c.white><c.mono_sans>Gentlemen, I suggest</c.mono_sans></c.white>
+
+172
+00:07:08.892 --> 00:07:10.983 position:25.24%,start align:start size:61.43% line:15.33% 
+<c.white><c.mono_sans>we get everyone out of here</c.mono_sans></c.white>
+
+173
+00:07:10.983 --> 00:07:12.388 position:30.95%,start align:start size:48.10% line:10.00% 
+<c.white><c.mono_sans>as soon as possible.</c.mono_sans></c.white>
+
+174
+00:07:12.382 --> 00:07:13.742 position:38.57%,start align:start size:32.86% line:10.00% 
+<c.white><c.mono_sans>Odo's right.</c.mono_sans></c.white>
+
+175
+00:07:13.742 --> 00:07:16.748 position:30.95%,start align:start size:50.00% line:10.00% 
+<c.white><c.mono_sans>Tell your men they're</c.mono_sans></c.white>
+
+176
+00:07:13.742 --> 00:07:16.748 position:23.33%,start align:start size:63.33% line:15.33% 
+<c.white><c.mono_sans>confined to quarters pending</c.mono_sans></c.white>
+
+177
+00:07:13.742 --> 00:07:16.748 position:29.05%,start align:start size:51.90% line:20.66% 
+<c.white><c.mono_sans>disciplinary hearings.</c.mono_sans></c.white>
+
+178
+00:07:17.049 --> 00:07:18.010 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>I'll do the same.</c.mono_sans></c.white>
+
+179
+00:07:19.268 --> 00:07:20.049 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>And keep smiling.</c.mono_sans></c.white>
+
+180
+00:07:30.497 --> 00:07:31.624 position:38.57%,start align:start size:32.86% line:10.00% 
+<c.white><c.mono_sans>( chuckles )</c.mono_sans></c.white>
+
+181
+00:07:33.478 --> 00:07:34.303 position:46.19%,start align:start size:19.52% line:10.00% 
+<c.white><c.mono_sans>Come.</c.mono_sans></c.white>
+
+182
+00:07:43.261 --> 00:07:44.580 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>SISKO: According to Intelligence</c.mono_sans></c.white>
+
+183
+00:07:44.580 --> 00:07:46.842 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>the array is capable</c.mono_sans></c.white>
+
+184
+00:07:44.580 --> 00:07:46.842 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>of detecting cloaked ships</c.mono_sans></c.white>
+
+185
+00:07:46.842 --> 00:07:48.452 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>as far as two light years away.</c.mono_sans></c.white>
+
+186
+00:07:48.800 --> 00:07:51.441 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>By the time the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant</i></c.mono_sans></c.white>
+
+187
+00:07:48.800 --> 00:07:51.441 position:21.43%,start align:start size:69.05% line:15.33% 
+<c.white><c.mono_sans>goes around the Argolis Cluster</c.mono_sans></c.white>
+
+188
+00:07:51.619 --> 00:07:53.340 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>the Dominion will already</c.mono_sans></c.white>
+
+189
+00:07:51.619 --> 00:07:53.340 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>know we're coming.</c.mono_sans></c.white>
+
+190
+00:07:53.697 --> 00:07:56.399 position:32.86%,start align:start size:46.19% line:73.96% 
+<c.white><c.mono_sans>You'll have a dozen</c.mono_sans></c.white>
+
+191
+00:07:53.697 --> 00:07:56.399 position:23.33%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>Jem'Hadar ships on you before</c.mono_sans></c.white>
+
+192
+00:07:53.697 --> 00:07:56.399 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>you can even get close.</c.mono_sans></c.white>
+
+193
+00:07:56.698 --> 00:07:58.979 position:21.43%,start align:start size:67.14% line:10.00% 
+<c.white><c.mono_sans>That's why we need the element</c.mono_sans></c.white>
+
+194
+00:07:56.698 --> 00:07:58.979 position:27.14%,start align:start size:55.71% line:15.33% 
+<c.white><c.mono_sans>of surprise on our side.</c.mono_sans></c.white>
+
+195
+00:07:58.979 --> 00:07:59.658 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>It's the only way.</c.mono_sans></c.white>
+
+196
+00:08:00.556 --> 00:08:01.397 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>What are you suggesting?</c.mono_sans></c.white>
+
+197
+00:08:02.015 --> 00:08:04.094 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>That I take the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant</i></c.mono_sans></c.white>
+
+198
+00:08:02.015 --> 00:08:04.094 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>through the Argolis.</c.mono_sans></c.white>
+
+199
+00:08:04.395 --> 00:08:05.516 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>You can't get a ship</c.mono_sans></c.white>
+
+200
+00:08:04.395 --> 00:08:05.516 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>through there.</c.mono_sans></c.white>
+
+201
+00:08:06.063 --> 00:08:08.344 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>You'd be cut to pieces</c.mono_sans></c.white>
+
+202
+00:08:06.063 --> 00:08:08.344 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>by the gravimetric shear.</c.mono_sans></c.white>
+
+203
+00:08:09.033 --> 00:08:10.854 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>That's exactly</c.mono_sans></c.white>
+
+204
+00:08:09.033 --> 00:08:10.854 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>what the Dominion thinks.</c.mono_sans></c.white>
+
+205
+00:08:11.332 --> 00:08:12.772 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>But if we come</c.mono_sans></c.white>
+
+206
+00:08:11.332 --> 00:08:12.772 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>at them from the Argolis</c.mono_sans></c.white>
+
+207
+00:08:13.192 --> 00:08:14.213 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>they won't know what hit them.</c.mono_sans></c.white>
+
+208
+00:08:15.133 --> 00:08:16.413 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>What makes you think</c.mono_sans></c.white>
+
+209
+00:08:15.133 --> 00:08:16.413 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>you can get through?</c.mono_sans></c.white>
+
+210
+00:08:16.771 --> 00:08:19.753 position:27.14%,start align:start size:57.62% line:73.96% 
+<c.white><c.mono_sans>Dax says she can navigate</c.mono_sans></c.white>
+
+211
+00:08:16.771 --> 00:08:19.753 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>around the gravimetric</c.mono_sans></c.white>
+
+212
+00:08:16.771 --> 00:08:19.753 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>distortions.</c.mono_sans></c.white>
+
+213
+00:08:20.011 --> 00:08:22.792 position:38.57%,start align:start size:34.76% line:73.96% 
+<c.white><c.mono_sans>She's studied</c.mono_sans></c.white>
+
+214
+00:08:20.011 --> 00:08:22.792 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>protostar clusters.</c.mono_sans></c.white>
+
+215
+00:08:20.011 --> 00:08:22.792 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>She knows what to look for.</c.mono_sans></c.white>
+
+216
+00:08:23.714 --> 00:08:26.410 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>It's a gamble but it's</c.mono_sans></c.white>
+
+217
+00:08:23.714 --> 00:08:26.410 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>one I'm willing to take.</c.mono_sans></c.white>
+
+218
+00:08:28.033 --> 00:08:29.033 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>All right.</c.mono_sans></c.white>
+
+219
+00:08:30.686 --> 00:08:31.527 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>Let's give it a shot.</c.mono_sans></c.white>
+
+220
+00:08:33.445 --> 00:08:34.086 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>When can you leave?</c.mono_sans></c.white>
+
+221
+00:08:34.867 --> 00:08:37.048 position:27.14%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>As soon as we finish repairs</c.mono_sans></c.white>
+
+222
+00:08:34.867 --> 00:08:37.048 position:51.90%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>on the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant.</i></c.mono_sans></c.white>
+
+223
+00:08:38.804 --> 00:08:39.845 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>Keep me posted, Captain.</c.mono_sans></c.white>
+
+224
+00:08:54.839 --> 00:08:56.519 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>( door opens )</c.mono_sans></c.white>
+
+225
+00:08:57.119 --> 00:08:58.878 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>You wanted to see me.</c.mono_sans></c.white>
+
+226
+00:09:00.717 --> 00:09:01.717 position:46.19%,start align:start size:19.52% line:84.62% 
+<c.white><c.mono_sans>Well?</c.mono_sans></c.white>
+
+227
+00:09:02.996 --> 00:09:04.437 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>Don't you have something</c.mono_sans></c.white>
+
+228
+00:09:02.996 --> 00:09:04.437 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>to say to me?</c.mono_sans></c.white>
+
+229
+00:09:05.556 --> 00:09:07.436 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>-About what happened at Quark's?</c.mono_sans></c.white>
+
+230
+00:09:05.556 --> 00:09:07.436 position:19.52%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>-Yeah.</c.mono_sans></c.white>
+
+231
+00:09:08.110 --> 00:09:09.435 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>It worked better</c.mono_sans></c.white>
+
+232
+00:09:08.110 --> 00:09:09.435 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>than I expected.</c.mono_sans></c.white>
+
+233
+00:09:09.736 --> 00:09:10.916 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>I knew you were behind it!</c.mono_sans></c.white>
+
+234
+00:09:11.334 --> 00:09:12.095 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Of course you did.</c.mono_sans></c.white>
+
+235
+00:09:12.975 --> 00:09:15.076 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>We discussed it at our</c.mono_sans></c.white>
+
+236
+00:09:12.975 --> 00:09:15.076 position:34.76%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>last resistance meeting.</c.mono_sans></c.white>
+
+237
+00:09:15.193 --> 00:09:17.395 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>And I said it was a bad idea.</c.mono_sans></c.white>
+
+238
+00:09:17.913 --> 00:09:18.993 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Yes, you did.</c.mono_sans></c.white>
+
+239
+00:09:19.753 --> 00:09:22.354 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>And then you walked out</c.mono_sans></c.white>
+
+240
+00:09:19.753 --> 00:09:22.354 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>of the room like there was</c.mono_sans></c.white>
+
+241
+00:09:19.753 --> 00:09:22.354 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>nothing left to say.</c.mono_sans></c.white>
+
+242
+00:09:22.952 --> 00:09:26.174 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>But Rom and Jake stayed</c.mono_sans></c.white>
+
+243
+00:09:22.952 --> 00:09:26.174 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>and we discussed it,</c.mono_sans></c.white>
+
+244
+00:09:22.952 --> 00:09:26.174 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>and you know what?</c.mono_sans></c.white>
+
+245
+00:09:26.989 --> 00:09:28.791 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>I decided it was a good idea.</c.mono_sans></c.white>
+
+246
+00:09:28.949 --> 00:09:32.441 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>So you went ahead</c.mono_sans></c.white>
+
+247
+00:09:28.949 --> 00:09:32.441 position:25.24%,start align:start size:59.52% line:15.33% 
+<c.white><c.mono_sans>and did it behind my back?</c.mono_sans></c.white>
+
+248
+00:09:32.441 --> 00:09:34.176 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>Why are you taking</c.mono_sans></c.white>
+
+249
+00:09:32.441 --> 00:09:34.176 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>this so personally?</c.mono_sans></c.white>
+
+250
+00:09:34.628 --> 00:09:36.289 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>How do you expect me to take it?</c.mono_sans></c.white>
+
+251
+00:09:36.928 --> 00:09:40.166 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>I spend my days sitting</c.mono_sans></c.white>
+
+252
+00:09:36.928 --> 00:09:40.166 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>on the Council with</c.mono_sans></c.white>
+
+253
+00:09:36.928 --> 00:09:40.166 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Dukat and Weyoun</c.mono_sans></c.white>
+
+254
+00:09:40.287 --> 00:09:42.468 position:30.95%,start align:start size:48.10% line:10.00% 
+<c.white><c.mono_sans>doing whatever I can</c.mono_sans></c.white>
+
+255
+00:09:40.287 --> 00:09:42.468 position:29.05%,start align:start size:53.81% line:15.33% 
+<c.white><c.mono_sans>to make sure that Bajor</c.mono_sans></c.white>
+
+256
+00:09:42.606 --> 00:09:45.628 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>survives this war intact.</c.mono_sans></c.white>
+
+257
+00:09:42.606 --> 00:09:45.628 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>The last thing I need</c.mono_sans></c.white>
+
+258
+00:09:45.764 --> 00:09:48.366 position:23.33%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>is to have you running around</c.mono_sans></c.white>
+
+259
+00:09:45.764 --> 00:09:48.366 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>causing mayhem.</c.mono_sans></c.white>
+
+260
+00:09:48.483 --> 00:09:52.806 position:30.95%,start align:start size:48.10% line:10.00% 
+<c.white><c.mono_sans>Do you have any idea</c.mono_sans></c.white>
+
+261
+00:09:48.483 --> 00:09:52.806 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans>what Dukat would do if he</c.mono_sans></c.white>
+
+262
+00:09:48.483 --> 00:09:52.806 position:23.33%,start align:start size:65.24% line:20.66% 
+<c.white><c.mono_sans>found out you were behind it?</c.mono_sans></c.white>
+
+263
+00:09:53.049 --> 00:09:56.732 position:32.86%,start align:start size:46.19% line:73.96% 
+<c.white><c.mono_sans>It's all the excuse</c.mono_sans></c.white>
+
+264
+00:09:53.049 --> 00:09:56.732 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>he would need to throw every</c.mono_sans></c.white>
+
+265
+00:09:53.049 --> 00:09:56.732 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>Bajoran off this station.</c.mono_sans></c.white>
+
+266
+00:09:57.382 --> 00:10:02.625 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>The Federation is losing</c.mono_sans></c.white>
+
+267
+00:09:57.382 --> 00:10:02.625 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>this war. We can't sit by</c.mono_sans></c.white>
+
+268
+00:09:57.382 --> 00:10:02.625 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>and do nothing.</c.mono_sans></c.white>
+
+269
+00:10:02.859 --> 00:10:05.240 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>There are limits</c.mono_sans></c.white>
+
+270
+00:10:02.859 --> 00:10:05.240 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>to what we can do.</c.mono_sans></c.white>
+
+271
+00:10:05.889 --> 00:10:06.939 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>I'm beginning to think</c.mono_sans></c.white>
+
+272
+00:10:06.939 --> 00:10:08.820 position:27.14%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>you shouldn't have agreed</c.mono_sans></c.white>
+
+273
+00:10:06.939 --> 00:10:08.820 position:29.05%,start align:start size:53.81% line:15.33% 
+<c.white><c.mono_sans>to sit on that Council.</c.mono_sans></c.white>
+
+274
+00:10:09.258 --> 00:10:12.580 position:34.76%,start align:start size:42.38% line:73.96% 
+<c.white><c.mono_sans>It's as if you're</c.mono_sans></c.white>
+
+275
+00:10:09.258 --> 00:10:12.580 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>so invested in making sure</c.mono_sans></c.white>
+
+276
+00:10:09.258 --> 00:10:12.580 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>the station runs smoothly</c.mono_sans></c.white>
+
+277
+00:10:12.580 --> 00:10:14.369 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>you've forgotten</c.mono_sans></c.white>
+
+278
+00:10:12.580 --> 00:10:14.369 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>there's a war going on.</c.mono_sans></c.white>
+
+279
+00:10:14.219 --> 00:10:16.699 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Are you questioning</c.mono_sans></c.white>
+
+280
+00:10:14.219 --> 00:10:16.699 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>my loyalties, Major?</c.mono_sans></c.white>
+
+281
+00:10:16.954 --> 00:10:18.155 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>I need you, Odo.</c.mono_sans></c.white>
+
+282
+00:10:19.154 --> 00:10:20.996 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>The resistance needs you.</c.mono_sans></c.white>
+
+283
+00:10:22.992 --> 00:10:24.313 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Answer me.</c.mono_sans></c.white>
+
+284
+00:10:25.353 --> 00:10:27.431 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Are you questioning</c.mono_sans></c.white>
+
+285
+00:10:25.353 --> 00:10:27.431 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>my loyalties?</c.mono_sans></c.white>
+
+286
+00:10:27.471 --> 00:10:28.631 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Oh, of course not.</c.mono_sans></c.white>
+
+287
+00:10:28.671 --> 00:10:29.911 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>That's not what this is about--</c.mono_sans></c.white>
+
+288
+00:10:29.951 --> 00:10:31.390 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>( door opens )</c.mono_sans></c.white>
+
+289
+00:10:35.679 --> 00:10:38.469 position:59.52%,start align:start size:30.95% line:79.29% 
+<c.white><c.mono_sans>Hello, Odo.</c.mono_sans></c.white>
+
+290
+00:10:35.679 --> 00:10:38.469 position:29.05%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>It's good to see you again.</c.mono_sans></c.white>
+
+291
+00:10:44.968 --> 00:10:47.429 position:63.33%,start align:start size:27.14% line:79.29% 
+<c.white><c.mono_sans>Leave us.</c.mono_sans></c.white>
+
+292
+00:10:44.968 --> 00:10:47.429 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I need to speak with Odo.</c.mono_sans></c.white>
+
+293
+00:10:47.687 --> 00:10:48.107 position:44.29%,start align:start size:23.33% line:84.62% 
+<c.white><c.mono_sans>Do you?</c.mono_sans></c.white>
+
+294
+00:10:50.406 --> 00:10:54.048 position:29.05%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans>It's all right, Nerys.</c.mono_sans></c.white>
+
+295
+00:10:50.406 --> 00:10:54.048 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>I may as well hear</c.mono_sans></c.white>
+
+296
+00:10:50.406 --> 00:10:54.048 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>what she has to say.</c.mono_sans></c.white>
+
+297
+00:10:55.004 --> 00:10:56.004 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Are you sure?</c.mono_sans></c.white>
+
+298
+00:11:04.341 --> 00:11:05.720 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>You called her "Nerys."</c.mono_sans></c.white>
+
+299
+00:11:06.491 --> 00:11:07.121 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>What of it?</c.mono_sans></c.white>
+
+300
+00:11:07.950 --> 00:11:09.660 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>Well, you used</c.mono_sans></c.white>
+
+301
+00:11:07.950 --> 00:11:09.660 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>to call her "Major."</c.mono_sans></c.white>
+
+302
+00:11:10.599 --> 00:11:13.340 position:53.81%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>Using the name</c.mono_sans></c.white>
+
+303
+00:11:10.599 --> 00:11:13.340 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>of a solid denotes intimacy.</c.mono_sans></c.white>
+
+304
+00:11:14.919 --> 00:11:16.418 position:23.33%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>You're a long way from home.</c.mono_sans></c.white>
+
+305
+00:11:18.902 --> 00:11:20.783 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Here to keep an eye</c.mono_sans></c.white>
+
+306
+00:11:18.902 --> 00:11:20.783 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>on the war effort?</c.mono_sans></c.white>
+
+307
+00:11:21.274 --> 00:11:24.834 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>I'm content to leave the details</c.mono_sans></c.white>
+
+308
+00:11:21.274 --> 00:11:24.834 position:19.52%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>of the war to the Vorta.</c.mono_sans></c.white>
+
+309
+00:11:25.734 --> 00:11:27.924 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>Then what brings you</c.mono_sans></c.white>
+
+310
+00:11:25.734 --> 00:11:27.924 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>to Deep Space 9?</c.mono_sans></c.white>
+
+311
+00:11:29.213 --> 00:11:30.413 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>You.</c.mono_sans></c.white>
+
+312
+00:11:32.533 --> 00:11:34.734 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>I was trapped in</c.mono_sans></c.white>
+
+313
+00:11:32.533 --> 00:11:34.734 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>the Alpha Quadrant</c.mono_sans></c.white>
+
+314
+00:11:34.734 --> 00:11:37.965 position:34.76%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>when Captain Sisko mined</c.mono_sans></c.white>
+
+315
+00:11:34.734 --> 00:11:37.965 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>the entrance to the wormhole.</c.mono_sans></c.white>
+
+316
+00:11:39.024 --> 00:11:41.326 position:30.95%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>I have spent too much time</c.mono_sans></c.white>
+
+317
+00:11:39.024 --> 00:11:41.326 position:57.62%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>with solids.</c.mono_sans></c.white>
+
+318
+00:11:42.650 --> 00:11:46.032 position:23.33%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>I came because I felt the need</c.mono_sans></c.white>
+
+319
+00:11:42.650 --> 00:11:46.032 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>to be with one of my own.</c.mono_sans></c.white>
+
+320
+00:11:47.089 --> 00:11:48.008 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>Ah.</c.mono_sans></c.white>
+
+321
+00:11:49.104 --> 00:11:50.088 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>Well, that's ironic</c.mono_sans></c.white>
+
+322
+00:11:50.088 --> 00:11:52.847 position:32.86%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>considering what happened</c.mono_sans></c.white>
+
+323
+00:11:50.088 --> 00:11:52.847 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>the last time we crossed paths.</c.mono_sans></c.white>
+
+324
+00:11:54.125 --> 00:11:57.047 position:42.38%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>You caused the death</c.mono_sans></c.white>
+
+325
+00:11:54.125 --> 00:11:57.047 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>of a fellow changeling, Odo.</c.mono_sans></c.white>
+
+326
+00:11:57.465 --> 00:11:59.006 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>Turning you into a solid</c.mono_sans></c.white>
+
+327
+00:11:59.024 --> 00:12:02.422 position:36.67%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>was the only punishment</c.mono_sans></c.white>
+
+328
+00:11:59.024 --> 00:12:02.422 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>severe enough for your crime.</c.mono_sans></c.white>
+
+329
+00:12:03.644 --> 00:12:05.245 position:38.57%,start align:start size:32.86% line:79.29% 
+<c.white><c.mono_sans>And now that</c.mono_sans></c.white>
+
+330
+00:12:03.644 --> 00:12:05.245 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>I'm a changeling again</c.mono_sans></c.white>
+
+331
+00:12:05.245 --> 00:12:07.285 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>you come here as though</c.mono_sans></c.white>
+
+332
+00:12:05.245 --> 00:12:07.285 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>nothing ever happened?</c.mono_sans></c.white>
+
+333
+00:12:08.203 --> 00:12:09.723 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>We have forgiven you.</c.mono_sans></c.white>
+
+334
+00:12:10.563 --> 00:12:12.882 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>Well, I haven't forgiven you.</c.mono_sans></c.white>
+
+335
+00:12:14.040 --> 00:12:17.383 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>It is time to put</c.mono_sans></c.white>
+
+336
+00:12:14.040 --> 00:12:17.383 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>the past behind us, Odo.</c.mono_sans></c.white>
+
+337
+00:12:17.998 --> 00:12:19.119 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>And what about the present?</c.mono_sans></c.white>
+
+338
+00:12:19.559 --> 00:12:21.560 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>You're waging a war</c.mono_sans></c.white>
+
+339
+00:12:19.559 --> 00:12:21.560 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>against my home.</c.mono_sans></c.white>
+
+340
+00:12:21.953 --> 00:12:23.214 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>This is not your home.</c.mono_sans></c.white>
+
+341
+00:12:24.377 --> 00:12:27.580 position:25.24%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>You belong with your own kind</c.mono_sans></c.white>
+
+342
+00:12:24.377 --> 00:12:27.580 position:30.95%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>as part of the Great Link.</c.mono_sans></c.white>
+
+343
+00:12:28.175 --> 00:12:30.295 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>I'm quite content here,</c.mono_sans></c.white>
+
+344
+00:12:28.175 --> 00:12:30.295 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>thank you.</c.mono_sans></c.white>
+
+345
+00:12:30.795 --> 00:12:33.977 position:30.95%,start align:start size:48.10% line:73.96% 
+<c.white><c.mono_sans>You say that because</c.mono_sans></c.white>
+
+346
+00:12:30.795 --> 00:12:33.977 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>you don't know what you're</c.mono_sans></c.white>
+
+347
+00:12:30.795 --> 00:12:33.977 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>capable of becoming.</c.mono_sans></c.white>
+
+348
+00:12:36.574 --> 00:12:41.357 position:32.86%,start align:start size:46.19% line:10.00% 
+<c.white><c.mono_sans>Perhaps if we spent</c.mono_sans></c.white>
+
+349
+00:12:36.574 --> 00:12:41.357 position:29.05%,start align:start size:51.90% line:15.33% 
+<c.white><c.mono_sans>some time together you</c.mono_sans></c.white>
+
+350
+00:12:36.574 --> 00:12:41.357 position:25.24%,start align:start size:59.52% line:20.66% 
+<c.white><c.mono_sans>might begin to understand.</c.mono_sans></c.white>
+
+351
+00:12:59.968 --> 00:13:01.647 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>Admiral, you wanted to see me?</c.mono_sans></c.white>
+
+352
+00:13:04.724 --> 00:13:05.425 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>I just got word.</c.mono_sans></c.white>
+
+353
+00:13:05.984 --> 00:13:07.765 position:30.95%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>Captain Bennet's promotion</c.mono_sans></c.white>
+
+354
+00:13:05.984 --> 00:13:07.765 position:48.10%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>has come through.</c.mono_sans></c.white>
+
+355
+00:13:08.485 --> 00:13:10.806 position:30.95%,start align:start size:48.10% line:73.96% 
+<c.white><c.mono_sans>At my recommendation</c.mono_sans></c.white>
+
+356
+00:13:08.485 --> 00:13:10.806 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>Starfleet's putting her</c.mono_sans></c.white>
+
+357
+00:13:08.485 --> 00:13:10.806 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>in charge</c.mono_sans></c.white>
+
+358
+00:13:10.806 --> 00:13:12.085 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>of Seventh Tactical Wing.</c.mono_sans></c.white>
+
+359
+00:13:13.251 --> 00:13:14.787 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>She was one of the best</c.mono_sans></c.white>
+
+360
+00:13:13.251 --> 00:13:14.787 position:27.14%,start align:start size:55.71% line:15.33% 
+<c.white><c.mono_sans>adjutants I've ever had,</c.mono_sans></c.white>
+
+361
+00:13:14.787 --> 00:13:17.954 position:34.76%,start align:start size:42.38% line:73.96% 
+<c.white><c.mono_sans>a strong grasp of</c.mono_sans></c.white>
+
+362
+00:13:14.787 --> 00:13:17.954 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>strategy and ability</c.mono_sans></c.white>
+
+363
+00:13:14.787 --> 00:13:17.954 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>to see the big picture.</c.mono_sans></c.white>
+
+364
+00:13:18.482 --> 00:13:21.484 position:25.24%,start align:start size:59.52% line:73.96% 
+<c.white><c.mono_sans>Sounds like it's not going</c.mono_sans></c.white>
+
+365
+00:13:18.482 --> 00:13:21.484 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>to be easy to find someone</c.mono_sans></c.white>
+
+366
+00:13:18.482 --> 00:13:21.484 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>to take her place.</c.mono_sans></c.white>
+
+367
+00:13:21.940 --> 00:13:24.301 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>I already have. You.</c.mono_sans></c.white>
+
+368
+00:13:25.809 --> 00:13:26.020 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Sir?</c.mono_sans></c.white>
+
+369
+00:13:27.099 --> 00:13:29.500 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>I've been very impressed</c.mono_sans></c.white>
+
+370
+00:13:27.099 --> 00:13:29.500 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>with you over these</c.mono_sans></c.white>
+
+371
+00:13:27.099 --> 00:13:29.500 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>past few weeks.</c.mono_sans></c.white>
+
+372
+00:13:30.117 --> 00:13:31.297 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>I think we would make</c.mono_sans></c.white>
+
+373
+00:13:30.117 --> 00:13:31.297 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>a good team.</c.mono_sans></c.white>
+
+374
+00:13:32.277 --> 00:13:33.237 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>Thank you, sir.</c.mono_sans></c.white>
+
+375
+00:13:34.277 --> 00:13:35.938 position:44.29%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Your new assignment</c.mono_sans></c.white>
+
+376
+00:13:34.277 --> 00:13:35.938 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>is effective immediately.</c.mono_sans></c.white>
+
+377
+00:13:36.295 --> 00:13:37.216 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>Immediately, sir?</c.mono_sans></c.white>
+
+378
+00:13:38.114 --> 00:13:39.455 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>What about the Argolis mission?</c.mono_sans></c.white>
+
+379
+00:13:40.315 --> 00:13:41.956 position:38.57%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>Commander Dax</c.mono_sans></c.white>
+
+380
+00:13:40.315 --> 00:13:41.956 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>will captain the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant.</i></c.mono_sans></c.white>
+
+381
+00:13:44.473 --> 00:13:45.673 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>She is up to it, isn't she?</c.mono_sans></c.white>
+
+382
+00:13:45.673 --> 00:13:46.903 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>Oh, absolutely, sir.</c.mono_sans></c.white>
+
+383
+00:13:48.432 --> 00:13:53.635 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>I guess I'd just gotten</c.mono_sans></c.white>
+
+384
+00:13:48.432 --> 00:13:53.635 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>used to the idea of commanding</c.mono_sans></c.white>
+
+385
+00:13:48.432 --> 00:13:53.635 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>the mission myself.</c.mono_sans></c.white>
+
+386
+00:13:55.671 --> 00:13:57.510 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>Look over these</c.mono_sans></c.white>
+
+387
+00:13:55.671 --> 00:13:57.510 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>tactical reports.</c.mono_sans></c.white>
+
+388
+00:13:58.070 --> 00:13:59.829 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>I want your thoughts</c.mono_sans></c.white>
+
+389
+00:13:58.070 --> 00:13:59.829 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>on the Bolian operation.</c.mono_sans></c.white>
+
+390
+00:14:00.363 --> 00:14:01.509 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>We'll meet here at 0600.</c.mono_sans></c.white>
+
+391
+00:14:04.268 --> 00:14:05.347 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Ben...</c.mono_sans></c.white>
+
+392
+00:14:08.746 --> 00:14:09.986 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Congratulations.</c.mono_sans></c.white>
+
+393
+00:14:18.243 --> 00:14:21.465 position:27.14%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>Legate Krim will be arriving</c.mono_sans></c.white>
+
+394
+00:14:18.243 --> 00:14:21.465 position:51.90%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>in the morning.</c.mono_sans></c.white>
+
+395
+00:14:22.222 --> 00:14:24.783 position:29.05%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>I'll have a security detail</c.mono_sans></c.white>
+
+396
+00:14:22.222 --> 00:14:24.783 position:30.95%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>escort him to your office.</c.mono_sans></c.white>
+
+397
+00:14:25.462 --> 00:14:26.981 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Well, if that's all...</c.mono_sans></c.white>
+
+398
+00:14:35.618 --> 00:14:38.578 position:30.95%,start align:start size:50.00% line:10.00% 
+<c.white><c.mono_sans>Founder, you honor us</c.mono_sans></c.white>
+
+399
+00:14:35.618 --> 00:14:38.578 position:32.86%,start align:start size:46.19% line:15.33% 
+<c.white><c.mono_sans>with your presence.</c.mono_sans></c.white>
+
+400
+00:14:39.018 --> 00:14:40.897 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>I understand the war</c.mono_sans></c.white>
+
+401
+00:14:39.018 --> 00:14:40.897 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>is going well.</c.mono_sans></c.white>
+
+402
+00:14:42.090 --> 00:14:45.131 position:25.24%,start align:start size:59.52% line:73.96% 
+<c.white><c.mono_sans>Only because I've followed</c.mono_sans></c.white>
+
+403
+00:14:42.090 --> 00:14:45.131 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>the plan the Founders</c.mono_sans></c.white>
+
+404
+00:14:42.090 --> 00:14:45.131 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>laid out for me.</c.mono_sans></c.white>
+
+405
+00:14:45.885 --> 00:14:47.115 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>Welcome to Terok Nor.</c.mono_sans></c.white>
+
+406
+00:14:47.874 --> 00:14:50.395 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>I'm glad we're finally</c.mono_sans></c.white>
+
+407
+00:14:47.874 --> 00:14:50.395 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>getting a chance to meet.</c.mono_sans></c.white>
+
+408
+00:14:51.133 --> 00:14:55.335 position:23.33%,start align:start size:63.33% line:73.96% 
+<c.white><c.mono_sans>As leaders of our respective</c.mono_sans></c.white>
+
+409
+00:14:51.133 --> 00:14:55.335 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>worlds you and I</c.mono_sans></c.white>
+
+410
+00:14:51.133 --> 00:14:55.335 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>will be taking our people</c.mono_sans></c.white>
+
+411
+00:14:55.335 --> 00:14:57.335 position:38.57%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>into a future</c.mono_sans></c.white>
+
+412
+00:14:55.335 --> 00:14:57.335 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>that I'm quite confident--</c.mono_sans></c.white>
+
+413
+00:14:57.335 --> 00:14:58.514 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>What about the minefield?</c.mono_sans></c.white>
+
+414
+00:14:59.055 --> 00:15:01.344 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>Why hasn't it been deactivated?</c.mono_sans></c.white>
+
+415
+00:15:01.334 --> 00:15:03.820 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Yes, Dukat.</c.mono_sans></c.white>
+
+416
+00:15:03.820 --> 00:15:05.315 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>This delay is intolerable.</c.mono_sans></c.white>
+
+417
+00:15:05.630 --> 00:15:08.511 position:19.52%,start align:start size:70.95% line:73.96% 
+<c.white><c.mono_sans>There are thousands of Jem'Hadar</c.mono_sans></c.white>
+
+418
+00:15:05.630 --> 00:15:08.511 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>ships stranded on the other side</c.mono_sans></c.white>
+
+419
+00:15:05.630 --> 00:15:08.511 position:19.52%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>of the wormhole</c.mono_sans></c.white>
+
+420
+00:15:08.511 --> 00:15:10.811 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>waiting to come through</c.mono_sans></c.white>
+
+421
+00:15:08.511 --> 00:15:10.811 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>and join the war effort.</c.mono_sans></c.white>
+
+422
+00:15:11.013 --> 00:15:13.935 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>Maybe you haven't read</c.mono_sans></c.white>
+
+423
+00:15:11.013 --> 00:15:13.935 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>the latest reports</c.mono_sans></c.white>
+
+424
+00:15:14.785 --> 00:15:19.088 position:27.14%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>but even without those ships</c.mono_sans></c.white>
+
+425
+00:15:14.785 --> 00:15:19.088 position:29.05%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>I'm still winning this war.</c.mono_sans></c.white>
+
+426
+00:15:19.225 --> 00:15:20.106 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>You're winning?</c.mono_sans></c.white>
+
+427
+00:15:20.824 --> 00:15:23.706 position:38.57%,start align:start size:34.76% line:73.96% 
+<c.white><c.mono_sans>I assure you,</c.mono_sans></c.white>
+
+428
+00:15:20.824 --> 00:15:23.706 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>I'm intimately involved in</c.mono_sans></c.white>
+
+429
+00:15:20.824 --> 00:15:23.706 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>all military decisions.</c.mono_sans></c.white>
+
+430
+00:15:23.706 --> 00:15:25.896 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>See to it the minefield</c.mono_sans></c.white>
+
+431
+00:15:23.706 --> 00:15:25.896 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>is brought down.</c.mono_sans></c.white>
+
+432
+00:15:26.945 --> 00:15:28.401 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Of course.</c.mono_sans></c.white>
+
+433
+00:15:28.665 --> 00:15:31.183 position:30.95%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>We've imposed our presence</c.mono_sans></c.white>
+
+434
+00:15:28.665 --> 00:15:31.183 position:44.29%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>on you long enough.</c.mono_sans></c.white>
+
+435
+00:15:34.960 --> 00:15:37.321 position:36.67%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>If there's anything you</c.mono_sans></c.white>
+
+436
+00:15:34.960 --> 00:15:37.321 position:38.57%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>need while you're here</c.mono_sans></c.white>
+
+437
+00:15:37.999 --> 00:15:39.600 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>please, let me know.</c.mono_sans></c.white>
+
+438
+00:15:46.187 --> 00:15:48.669 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>Do they always compete</c.mono_sans></c.white>
+
+439
+00:15:46.187 --> 00:15:48.669 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>with one another like that?</c.mono_sans></c.white>
+
+440
+00:15:49.706 --> 00:15:51.056 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>As a matter of fact, they do.</c.mono_sans></c.white>
+
+441
+00:15:51.994 --> 00:15:53.836 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>You have to interact</c.mono_sans></c.white>
+
+442
+00:15:51.994 --> 00:15:53.836 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>with them often.</c.mono_sans></c.white>
+
+443
+00:15:54.819 --> 00:15:56.020 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>It must be trying for you.</c.mono_sans></c.white>
+
+444
+00:15:57.194 --> 00:15:58.074 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>It hasn't been easy.</c.mono_sans></c.white>
+
+445
+00:16:00.692 --> 00:16:03.113 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>Now, if you'll excuse me</c.mono_sans></c.white>
+
+446
+00:16:00.692 --> 00:16:03.113 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>I have some work to do</c.mono_sans></c.white>
+
+447
+00:16:00.692 --> 00:16:03.113 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>in my quarters.</c.mono_sans></c.white>
+
+448
+00:16:03.492 --> 00:16:05.012 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>May I walk with you?</c.mono_sans></c.white>
+
+449
+00:16:19.527 --> 00:16:22.806 position:30.95%,start align:start size:48.10% line:10.00% 
+<c.white><c.mono_sans>To become a thing is</c.mono_sans></c.white>
+
+450
+00:16:19.527 --> 00:16:22.806 position:34.76%,start align:start size:40.48% line:15.33% 
+<c.white><c.mono_sans>to know a thing.</c.mono_sans></c.white>
+
+451
+00:16:23.466 --> 00:16:24.566 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>To assume its form</c.mono_sans></c.white>
+
+452
+00:16:25.124 --> 00:16:28.046 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>is to begin to understand</c.mono_sans></c.white>
+
+453
+00:16:25.124 --> 00:16:28.046 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>its existence.</c.mono_sans></c.white>
+
+454
+00:16:29.344 --> 00:16:32.343 position:19.52%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>You tried to teach me that when</c.mono_sans></c.white>
+
+455
+00:16:29.344 --> 00:16:32.343 position:19.52%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>I visited our homeworld.</c.mono_sans></c.white>
+
+456
+00:16:32.384 --> 00:16:33.383 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Hmm...</c.mono_sans></c.white>
+
+457
+00:16:33.622 --> 00:16:34.703 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>I remember.</c.mono_sans></c.white>
+
+458
+00:16:35.802 --> 00:16:38.083 position:44.29%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I didn't understand</c.mono_sans></c.white>
+
+459
+00:16:35.802 --> 00:16:38.083 position:23.33%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>what you meant by it at first.</c.mono_sans></c.white>
+
+460
+00:16:38.621 --> 00:16:41.322 position:30.95%,start align:start size:50.00% line:10.00% 
+<c.white><c.mono_sans>So when I returned to</c.mono_sans></c.white>
+
+461
+00:16:38.621 --> 00:16:41.322 position:23.33%,start align:start size:63.33% line:15.33% 
+<c.white><c.mono_sans>the station I got rid of all</c.mono_sans></c.white>
+
+462
+00:16:38.621 --> 00:16:41.322 position:38.57%,start align:start size:34.76% line:20.66% 
+<c.white><c.mono_sans>the furniture</c.mono_sans></c.white>
+
+463
+00:16:41.322 --> 00:16:45.103 position:23.33%,start align:start size:65.24% line:73.96% 
+<c.white><c.mono_sans>I used to have in my quarters</c.mono_sans></c.white>
+
+464
+00:16:41.322 --> 00:16:45.103 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>and replaced it with</c.mono_sans></c.white>
+
+465
+00:16:41.322 --> 00:16:45.103 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>these objects.</c.mono_sans></c.white>
+
+466
+00:16:46.699 --> 00:16:48.780 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>I've assumed every shape</c.mono_sans></c.white>
+
+467
+00:16:46.699 --> 00:16:48.780 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>in this room.</c.mono_sans></c.white>
+
+468
+00:16:51.338 --> 00:16:52.738 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>I suppose if it weren't for you</c.mono_sans></c.white>
+
+469
+00:16:53.517 --> 00:16:55.418 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>I never would have known</c.mono_sans></c.white>
+
+470
+00:16:53.517 --> 00:16:55.418 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>the simple pleasure</c.mono_sans></c.white>
+
+471
+00:16:55.418 --> 00:16:59.029 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>of spending time existing</c.mono_sans></c.white>
+
+472
+00:16:55.418 --> 00:16:59.029 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>as a stone or a branch.</c.mono_sans></c.white>
+
+473
+00:16:59.677 --> 00:17:01.896 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>I'm glad you learned something</c.mono_sans></c.white>
+
+474
+00:16:59.677 --> 00:17:01.896 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>from your visit.</c.mono_sans></c.white>
+
+475
+00:17:03.353 --> 00:17:05.834 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>Your arrival was a time of great</c.mono_sans></c.white>
+
+476
+00:17:03.353 --> 00:17:05.834 position:19.52%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>joy for the Link</c.mono_sans></c.white>
+
+477
+00:17:07.152 --> 00:17:10.074 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>and your departure,</c.mono_sans></c.white>
+
+478
+00:17:07.152 --> 00:17:10.074 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>a time of great sadness.</c.mono_sans></c.white>
+
+479
+00:17:11.472 --> 00:17:13.333 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>If only you had stayed</c.mono_sans></c.white>
+
+480
+00:17:11.472 --> 00:17:13.333 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>with us, Odo...</c.mono_sans></c.white>
+
+481
+00:17:15.031 --> 00:17:15.531 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>I couldn't.</c.mono_sans></c.white>
+
+482
+00:17:18.049 --> 00:17:19.589 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>You chose the solids.</c.mono_sans></c.white>
+
+483
+00:17:21.368 --> 00:17:22.608 position:38.57%,start align:start size:34.76% line:10.00% 
+<c.white><c.mono_sans>And I haven't</c.mono_sans></c.white>
+
+484
+00:17:21.368 --> 00:17:22.608 position:38.57%,start align:start size:34.76% line:15.33% 
+<c.white><c.mono_sans>regretted it.</c.mono_sans></c.white>
+
+485
+00:17:24.008 --> 00:17:24.908 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Not even a little?</c.mono_sans></c.white>
+
+486
+00:17:27.766 --> 00:17:31.325 position:27.14%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>I do think about the Link</c.mono_sans></c.white>
+
+487
+00:17:27.766 --> 00:17:31.325 position:32.86%,start align:start size:44.29% line:15.33% 
+<c.white><c.mono_sans>from time to time.</c.mono_sans></c.white>
+
+488
+00:17:32.117 --> 00:17:33.046 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>It's there for you.</c.mono_sans></c.white>
+
+489
+00:17:35.244 --> 00:17:35.724 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>I can't.</c.mono_sans></c.white>
+
+490
+00:17:36.404 --> 00:17:37.404 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Why?</c.mono_sans></c.white>
+
+491
+00:17:38.582 --> 00:17:39.722 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Because of Kira?</c.mono_sans></c.white>
+
+492
+00:17:42.882 --> 00:17:44.743 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>You still have feelings</c.mono_sans></c.white>
+
+493
+00:17:42.882 --> 00:17:44.743 position:32.86%,start align:start size:46.19% line:15.33% 
+<c.white><c.mono_sans>for her, don't you?</c.mono_sans></c.white>
+
+494
+00:17:46.299 --> 00:17:47.460 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>But she doesn't share them.</c.mono_sans></c.white>
+
+495
+00:17:49.102 --> 00:17:49.782 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>I'm sorry.</c.mono_sans></c.white>
+
+496
+00:17:52.120 --> 00:17:53.040 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>Aren't you going to tell me</c.mono_sans></c.white>
+
+497
+00:17:53.058 --> 00:17:55.020 position:27.14%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>I shouldn't waste my time</c.mono_sans></c.white>
+
+498
+00:17:53.058 --> 00:17:55.020 position:38.57%,start align:start size:34.76% line:15.33% 
+<c.white><c.mono_sans>with a solid?</c.mono_sans></c.white>
+
+499
+00:17:56.719 --> 00:17:57.539 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>You love her.</c.mono_sans></c.white>
+
+500
+00:18:01.517 --> 00:18:02.835 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>And I wish I didn't.</c.mono_sans></c.white>
+
+501
+00:18:05.675 --> 00:18:06.976 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I'm so vulnerable to her.</c.mono_sans></c.white>
+
+502
+00:18:08.414 --> 00:18:11.335 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>All she has to do is smile at me</c.mono_sans></c.white>
+
+503
+00:18:08.414 --> 00:18:11.335 position:19.52%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>and I'm happy beyond reason.</c.mono_sans></c.white>
+
+504
+00:18:12.613 --> 00:18:15.154 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>A minor disagreement between us</c.mono_sans></c.white>
+
+505
+00:18:12.613 --> 00:18:15.154 position:44.29%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>and I'm devastated.</c.mono_sans></c.white>
+
+506
+00:18:16.272 --> 00:18:17.092 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>It's absurd.</c.mono_sans></c.white>
+
+507
+00:18:18.371 --> 00:18:20.292 position:19.52%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>Sometimes, I wish I could reach</c.mono_sans></c.white>
+
+508
+00:18:18.371 --> 00:18:20.292 position:19.52%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>inside myself</c.mono_sans></c.white>
+
+509
+00:18:20.292 --> 00:18:21.812 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>and tear out my feelings</c.mono_sans></c.white>
+
+510
+00:18:20.292 --> 00:18:21.812 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>for her.</c.mono_sans></c.white>
+
+511
+00:18:23.449 --> 00:18:24.130 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>But I can't.</c.mono_sans></c.white>
+
+512
+00:18:26.147 --> 00:18:27.248 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Poor Odo</c.mono_sans></c.white>
+
+513
+00:18:28.089 --> 00:18:29.029 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>I don't want your pity.</c.mono_sans></c.white>
+
+514
+00:18:30.448 --> 00:18:32.810 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>I am not offering pity.</c.mono_sans></c.white>
+
+515
+00:18:33.568 --> 00:18:35.607 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>What I need is some peace.</c.mono_sans></c.white>
+
+516
+00:18:36.785 --> 00:18:38.767 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>What you need is clarity.</c.mono_sans></c.white>
+
+517
+00:18:45.661 --> 00:18:47.498 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>I can give you that.</c.mono_sans></c.white>
+
+518
+00:19:02.578 --> 00:19:04.697 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>Do you want me to stop?</c.mono_sans></c.white>
+
+519
+00:19:30.249 --> 00:19:31.408 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>That'll be all.</c.mono_sans></c.white>
+
+520
+00:19:35.387 --> 00:19:39.070 position:19.52%,start align:start size:69.05% line:73.96% 
+<c.white><c.mono_sans>What are you doing here, Damar?</c.mono_sans></c.white>
+
+521
+00:19:35.387 --> 00:19:39.070 position:19.52%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>Did Dukat demote you</c.mono_sans></c.white>
+
+522
+00:19:35.387 --> 00:19:39.070 position:19.52%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>to security detail?</c.mono_sans></c.white>
+
+523
+00:19:39.986 --> 00:19:42.348 position:23.33%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>-What can I do for you, Major?</c.mono_sans></c.white>
+
+524
+00:19:39.986 --> 00:19:42.348 position:40.48%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>-I'm looking for Odo.</c.mono_sans></c.white>
+
+525
+00:19:44.904 --> 00:19:46.424 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>Well, he's not here.</c.mono_sans></c.white>
+
+526
+00:19:46.943 --> 00:19:48.504 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>Do you know where he is?</c.mono_sans></c.white>
+
+527
+00:19:48.983 --> 00:19:50.183 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Yes.</c.mono_sans></c.white>
+
+528
+00:19:51.023 --> 00:19:53.701 position:38.57%,start align:start size:32.86% line:73.96% 
+<c.white><c.mono_sans>That's good.</c.mono_sans></c.white>
+
+529
+00:19:51.023 --> 00:19:53.701 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>It's good to know</c.mono_sans></c.white>
+
+530
+00:19:51.023 --> 00:19:53.701 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>where your boss is.</c.mono_sans></c.white>
+
+531
+00:19:56.520 --> 00:19:59.442 position:42.38%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>He's in his quarters</c.mono_sans></c.white>
+
+532
+00:19:56.520 --> 00:19:59.442 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>with the other shape-shifter.</c.mono_sans></c.white>
+
+533
+00:19:59.880 --> 00:20:01.802 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>Jealous, Major?</c.mono_sans></c.white>
+
+534
+00:20:02.840 --> 00:20:04.461 position:25.24%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>Try to stay out of trouble,</c.mono_sans></c.white>
+
+535
+00:20:02.840 --> 00:20:04.461 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Damar.</c.mono_sans></c.white>
+
+536
+00:20:04.939 --> 00:20:07.561 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>You don't want to end up</c.mono_sans></c.white>
+
+537
+00:20:04.939 --> 00:20:07.561 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>on sanitation duty.</c.mono_sans></c.white>
+
+538
+00:20:13.456 --> 00:20:14.895 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>( door chimes )</c.mono_sans></c.white>
+
+539
+00:20:15.855 --> 00:20:16.894 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Come in.</c.mono_sans></c.white>
+
+540
+00:20:21.134 --> 00:20:22.173 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Odo?</c.mono_sans></c.white>
+
+541
+00:20:24.950 --> 00:20:25.892 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Nerys.</c.mono_sans></c.white>
+
+542
+00:20:26.312 --> 00:20:28.954 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>I dropped by your office</c.mono_sans></c.white>
+
+543
+00:20:26.312 --> 00:20:28.954 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>and Damar told me</c.mono_sans></c.white>
+
+544
+00:20:26.312 --> 00:20:28.954 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>you were here with her.</c.mono_sans></c.white>
+
+545
+00:20:29.631 --> 00:20:31.591 position:38.57%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>She was here,</c.mono_sans></c.white>
+
+546
+00:20:29.631 --> 00:20:31.591 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>but she's gone now.</c.mono_sans></c.white>
+
+547
+00:20:32.110 --> 00:20:33.150 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>You all right?</c.mono_sans></c.white>
+
+548
+00:20:33.610 --> 00:20:34.471 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>What did she want?</c.mono_sans></c.white>
+
+549
+00:20:36.490 --> 00:20:37.751 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>She didn't want anything.</c.mono_sans></c.white>
+
+550
+00:20:38.469 --> 00:20:40.150 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>Then what was she doing here?</c.mono_sans></c.white>
+
+551
+00:20:42.867 --> 00:20:45.449 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I know how you feel</c.mono_sans></c.white>
+
+552
+00:20:42.867 --> 00:20:45.449 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>about her, Major</c.mono_sans></c.white>
+
+553
+00:20:46.325 --> 00:20:47.886 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>but there's no reason</c.mono_sans></c.white>
+
+554
+00:20:46.325 --> 00:20:47.886 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>to be concerned.</c.mono_sans></c.white>
+
+555
+00:20:49.066 --> 00:20:52.409 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>You don't know how much</c.mono_sans></c.white>
+
+556
+00:20:49.066 --> 00:20:52.409 position:23.33%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>I wish I could believe that.</c.mono_sans></c.white>
+
+557
+00:20:53.303 --> 00:20:55.143 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>You didn't link with her,</c.mono_sans></c.white>
+
+558
+00:20:53.303 --> 00:20:55.143 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>did you?</c.mono_sans></c.white>
+
+559
+00:20:58.882 --> 00:20:59.923 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Actually, I did.</c.mono_sans></c.white>
+
+560
+00:21:01.002 --> 00:21:02.122 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>You did?</c.mono_sans></c.white>
+
+561
+00:21:05.360 --> 00:21:07.220 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>What were you thinking?</c.mono_sans></c.white>
+
+562
+00:21:08.939 --> 00:21:13.218 position:27.14%,start align:start size:57.62% line:73.96% 
+<c.white><c.mono_sans>She didn't find out about</c.mono_sans></c.white>
+
+563
+00:21:08.939 --> 00:21:13.218 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>the resistance if that's why</c.mono_sans></c.white>
+
+564
+00:21:08.939 --> 00:21:13.218 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>you're worried.</c.mono_sans></c.white>
+
+565
+00:21:13.417 --> 00:21:14.417 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>It's not.</c.mono_sans></c.white>
+
+566
+00:21:14.417 --> 00:21:18.310 position:42.38%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>The Link isn't about</c.mono_sans></c.white>
+
+567
+00:21:14.417 --> 00:21:18.310 position:36.67%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>exchanging information.</c.mono_sans></c.white>
+
+568
+00:21:19.296 --> 00:21:22.679 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>It's about merging thought</c.mono_sans></c.white>
+
+569
+00:21:19.296 --> 00:21:22.679 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>and form, idea and sensation.</c.mono_sans></c.white>
+
+570
+00:21:22.415 --> 00:21:25.775 position:23.33%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>That sounds like a perfect way</c.mono_sans></c.white>
+
+571
+00:21:22.415 --> 00:21:25.775 position:38.57%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>to manipulate someone.</c.mono_sans></c.white>
+
+572
+00:21:26.974 --> 00:21:28.453 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>She's not manipulating me.</c.mono_sans></c.white>
+
+573
+00:21:29.293 --> 00:21:32.373 position:40.48%,start align:start size:29.05% line:10.00% 
+<c.white><c.mono_sans>Ever since</c.mono_sans></c.white>
+
+574
+00:21:29.293 --> 00:21:32.373 position:23.33%,start align:start size:65.24% line:15.33% 
+<c.white><c.mono_sans>the day you two crossed paths</c.mono_sans></c.white>
+
+575
+00:21:32.872 --> 00:21:35.474 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>she has lied to you, tricked you</c.mono_sans></c.white>
+
+576
+00:21:36.250 --> 00:21:38.792 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>stood in judgment of you.</c.mono_sans></c.white>
+
+577
+00:21:36.250 --> 00:21:38.792 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I don't trust her.</c.mono_sans></c.white>
+
+578
+00:21:38.971 --> 00:21:40.392 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>I don't understand</c.mono_sans></c.white>
+
+579
+00:21:38.971 --> 00:21:40.392 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>how you can.</c.mono_sans></c.white>
+
+580
+00:21:41.289 --> 00:21:43.191 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I linked with her.</c.mono_sans></c.white>
+
+581
+00:21:43.989 --> 00:21:46.391 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>If she had any hidden motive</c.mono_sans></c.white>
+
+582
+00:21:43.989 --> 00:21:46.391 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>I would have sensed it.</c.mono_sans></c.white>
+
+583
+00:21:46.391 --> 00:21:49.502 position:25.24%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>She's just trying to teach me</c.mono_sans></c.white>
+
+584
+00:21:46.391 --> 00:21:49.502 position:55.71%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>about myself,</c.mono_sans></c.white>
+
+585
+00:21:50.087 --> 00:21:51.889 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>about what I'm capable</c.mono_sans></c.white>
+
+586
+00:21:50.087 --> 00:21:51.889 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>of becoming.</c.mono_sans></c.white>
+
+587
+00:21:52.208 --> 00:21:54.049 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>An intergalactic</c.mono_sans></c.white>
+
+588
+00:21:52.208 --> 00:21:54.049 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>warlord, maybe?</c.mono_sans></c.white>
+
+589
+00:21:54.049 --> 00:21:55.699 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>Because that's what she is.</c.mono_sans></c.white>
+
+590
+00:21:55.905 --> 00:21:58.307 position:40.48%,start align:start size:29.05% line:10.00% 
+<c.white><c.mono_sans>Who knows?</c.mono_sans></c.white>
+
+591
+00:21:55.905 --> 00:21:58.307 position:32.86%,start align:start size:46.19% line:15.33% 
+<c.white><c.mono_sans>By linking with her</c.mono_sans></c.white>
+
+592
+00:21:58.344 --> 00:22:00.626 position:36.67%,start align:start size:38.57% line:10.00% 
+<c.white><c.mono_sans>I might be able</c.mono_sans></c.white>
+
+593
+00:21:58.344 --> 00:22:00.626 position:29.05%,start align:start size:51.90% line:15.33% 
+<c.white><c.mono_sans>to make her understand</c.mono_sans></c.white>
+
+594
+00:22:00.818 --> 00:22:03.740 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>that the Federation doesn't pose</c.mono_sans></c.white>
+
+595
+00:22:00.818 --> 00:22:03.740 position:19.52%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>a threat to her people.</c.mono_sans></c.white>
+
+596
+00:22:04.103 --> 00:22:08.586 position:19.52%,start align:start size:70.95% line:10.00% 
+<c.white><c.mono_sans>You believe you can convince her</c.mono_sans></c.white>
+
+597
+00:22:04.103 --> 00:22:08.586 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>to call off the war?</c.mono_sans></c.white>
+
+598
+00:22:09.481 --> 00:22:11.663 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>If you could experience the Link</c.mono_sans></c.white>
+
+599
+00:22:12.820 --> 00:22:16.243 position:25.24%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>you'd understand the effect</c.mono_sans></c.white>
+
+600
+00:22:12.820 --> 00:22:16.243 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>it has on my people.</c.mono_sans></c.white>
+
+601
+00:22:16.999 --> 00:22:19.081 position:38.57%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>You'd realize</c.mono_sans></c.white>
+
+602
+00:22:16.999 --> 00:22:19.081 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>that anything is possible.</c.mono_sans></c.white>
+
+603
+00:22:20.179 --> 00:22:24.341 position:32.86%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans>I'm only beginning</c.mono_sans></c.white>
+
+604
+00:22:20.179 --> 00:22:24.341 position:23.33%,start align:start size:65.24% line:15.33% 
+<c.white><c.mono_sans>to understand it all, myself.</c.mono_sans></c.white>
+
+605
+00:22:24.341 --> 00:22:25.710 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>I still have so many questions.</c.mono_sans></c.white>
+
+606
+00:22:25.816 --> 00:22:29.218 position:25.24%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>Now that she's here, I have</c.mono_sans></c.white>
+
+607
+00:22:25.816 --> 00:22:29.218 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>a chance to find some answers.</c.mono_sans></c.white>
+
+608
+00:22:29.673 --> 00:22:33.556 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>Odo, this isn't the time</c.mono_sans></c.white>
+
+609
+00:22:29.673 --> 00:22:33.556 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>to go off on some kind of</c.mono_sans></c.white>
+
+610
+00:22:29.673 --> 00:22:33.556 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>personal quest.</c.mono_sans></c.white>
+
+611
+00:22:34.274 --> 00:22:35.715 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>There's too much at stake.</c.mono_sans></c.white>
+
+612
+00:22:36.473 --> 00:22:40.796 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>After the war is over,</c.mono_sans></c.white>
+
+613
+00:22:36.473 --> 00:22:40.796 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>do whatever you need to do.</c.mono_sans></c.white>
+
+614
+00:22:40.892 --> 00:22:43.234 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>If you feel you need to go</c.mono_sans></c.white>
+
+615
+00:22:40.892 --> 00:22:43.234 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>and join the Great Link</c.mono_sans></c.white>
+
+616
+00:22:43.690 --> 00:22:45.031 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>I'm... I'm not going</c.mono_sans></c.white>
+
+617
+00:22:43.690 --> 00:22:45.031 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>to stop you.</c.mono_sans></c.white>
+
+618
+00:22:45.862 --> 00:22:46.863 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>But for right now</c.mono_sans></c.white>
+
+619
+00:22:48.191 --> 00:22:52.153 position:29.05%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>I need you here... focused.</c.mono_sans></c.white>
+
+620
+00:22:48.191 --> 00:22:52.153 position:48.10%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>Please promise me</c.mono_sans></c.white>
+
+621
+00:22:52.153 --> 00:22:54.523 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>that you're not going</c.mono_sans></c.white>
+
+622
+00:22:52.153 --> 00:22:54.523 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>to link with her again.</c.mono_sans></c.white>
+
+623
+00:22:56.507 --> 00:22:57.848 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>Not until this is over.</c.mono_sans></c.white>
+
+624
+00:23:01.026 --> 00:23:02.145 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>All right.</c.mono_sans></c.white>
+
+625
+00:23:02.724 --> 00:23:03.145 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>I won't.</c.mono_sans></c.white>
+
+626
+00:23:04.605 --> 00:23:06.967 position:34.76%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>Now, if you'll excuse me</c.mono_sans></c.white>
+
+627
+00:23:04.605 --> 00:23:06.967 position:38.57%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>I have to get to work.</c.mono_sans></c.white>
+
+628
+00:23:09.482 --> 00:23:11.083 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>I'll see you at</c.mono_sans></c.white>
+
+629
+00:23:09.482 --> 00:23:11.083 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>the resistance meeting.</c.mono_sans></c.white>
+
+630
+00:23:38.330 --> 00:23:39.314 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>Are you two ever</c.mono_sans></c.white>
+
+631
+00:23:38.330 --> 00:23:39.314 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>going to be finished?</c.mono_sans></c.white>
+
+632
+00:23:39.354 --> 00:23:41.153 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>Just a few more minutes,</c.mono_sans></c.white>
+
+633
+00:23:39.354 --> 00:23:41.153 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Commander.</c.mono_sans></c.white>
+
+634
+00:23:42.891 --> 00:23:43.322 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>That's "Captain."</c.mono_sans></c.white>
+
+635
+00:23:43.642 --> 00:23:45.882 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>It's an old naval tradition.</c.mono_sans></c.white>
+
+636
+00:23:43.642 --> 00:23:45.882 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>Whoever's in command of a ship</c.mono_sans></c.white>
+
+637
+00:23:46.532 --> 00:23:48.854 position:46.19%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>regardless of rank</c.mono_sans></c.white>
+
+638
+00:23:46.532 --> 00:23:48.854 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>is referred to as "Captain."</c.mono_sans></c.white>
+
+639
+00:23:49.971 --> 00:23:54.090 position:25.24%,start align:start size:59.52% line:73.96% 
+<c.white><c.mono_sans>You mean, if I had to take</c.mono_sans></c.white>
+
+640
+00:23:49.971 --> 00:23:54.090 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>command I would be called</c.mono_sans></c.white>
+
+641
+00:23:49.971 --> 00:23:54.090 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>"Captain," too?</c.mono_sans></c.white>
+
+642
+00:23:54.949 --> 00:23:57.451 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>Cadet, by the time</c.mono_sans></c.white>
+
+643
+00:23:54.949 --> 00:23:57.451 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>you took command</c.mono_sans></c.white>
+
+644
+00:23:57.451 --> 00:23:59.380 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>there'd be nobody left</c.mono_sans></c.white>
+
+645
+00:23:57.451 --> 00:23:59.380 position:40.48%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>to call you anything.</c.mono_sans></c.white>
+
+646
+00:24:01.782 --> 00:24:02.130 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Good point.</c.mono_sans></c.white>
+
+647
+00:24:08.807 --> 00:24:10.167 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>Come to take a last look around?</c.mono_sans></c.white>
+
+648
+00:24:10.224 --> 00:24:11.645 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>Not a last look, I hope.</c.mono_sans></c.white>
+
+649
+00:24:12.485 --> 00:24:13.546 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>How are the repairs coming?</c.mono_sans></c.white>
+
+650
+00:24:14.584 --> 00:24:15.839 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>Almost done.</c.mono_sans></c.white>
+
+651
+00:24:16.868 --> 00:24:19.050 position:23.33%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>I wouldn't get too comfortable</c.mono_sans></c.white>
+
+652
+00:24:16.868 --> 00:24:19.050 position:36.67%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>in that chair, old man.</c.mono_sans></c.white>
+
+653
+00:24:19.050 --> 00:24:21.417 position:40.48%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>When this war is over</c.mono_sans></c.white>
+
+654
+00:24:19.050 --> 00:24:21.417 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>I'm going to want my ship back.</c.mono_sans></c.white>
+
+655
+00:24:22.050 --> 00:24:25.328 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>Fine. When this war's over</c.mono_sans></c.white>
+
+656
+00:24:22.050 --> 00:24:25.328 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I'm going on a honeymoon.</c.mono_sans></c.white>
+
+657
+00:24:25.608 --> 00:24:27.174 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>All done here, Captain.</c.mono_sans></c.white>
+
+658
+00:24:27.167 --> 00:24:28.367 position:40.48%,start align:start size:30.95% line:79.29% 
+<c.white><c.mono_sans>-Very well.</c.mono_sans></c.white>
+
+659
+00:24:27.167 --> 00:24:28.367 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>-All right.</c.mono_sans></c.white>
+
+660
+00:24:32.069 --> 00:24:35.571 position:30.95%,start align:start size:50.00% line:73.96% 
+<c.white><c.mono_sans>Plot a course for the</c.mono_sans></c.white>
+
+661
+00:24:32.069 --> 00:24:35.571 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Argolis Cluster and</c.mono_sans></c.white>
+
+662
+00:24:32.069 --> 00:24:35.571 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>prepare for departure.</c.mono_sans></c.white>
+
+663
+00:24:35.646 --> 00:24:36.437 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>HELM: Aye, Captain.</c.mono_sans></c.white>
+
+664
+00:24:39.236 --> 00:24:40.956 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Benjamin...</c.mono_sans></c.white>
+
+665
+00:24:42.196 --> 00:24:43.317 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>I wish you were coming with us.</c.mono_sans></c.white>
+
+666
+00:24:44.795 --> 00:24:45.994 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>You'll do fine.</c.mono_sans></c.white>
+
+667
+00:25:00.550 --> 00:25:02.230 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>( sighs )</c.mono_sans></c.white>
+
+668
+00:25:11.316 --> 00:25:13.786 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>Pardon our appearance.</c.mono_sans></c.white>
+
+669
+00:25:11.316 --> 00:25:13.786 position:48.10%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>We're renovating.</c.mono_sans></c.white>
+
+670
+00:25:14.546 --> 00:25:15.905 position:46.19%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans><i>Kanar.</i></c.mono_sans></c.white>
+
+671
+00:25:19.984 --> 00:25:21.104 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Not that one.</c.mono_sans></c.white>
+
+672
+00:25:21.863 --> 00:25:23.023 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>The '27.</c.mono_sans></c.white>
+
+673
+00:25:23.263 --> 00:25:24.383 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>'27?</c.mono_sans></c.white>
+
+674
+00:25:26.942 --> 00:25:27.942 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Expensive.</c.mono_sans></c.white>
+
+675
+00:25:28.382 --> 00:25:31.851 position:32.86%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans>I can afford it...</c.mono_sans></c.white>
+
+676
+00:25:28.382 --> 00:25:31.851 position:32.86%,start align:start size:44.29% line:15.33% 
+<c.white><c.mono_sans>On a Gul's salary.</c.mono_sans></c.white>
+
+677
+00:25:32.339 --> 00:25:33.860 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>Wait a minute.</c.mono_sans></c.white>
+
+678
+00:25:33.860 --> 00:25:35.992 position:23.33%,start align:start size:65.24% line:73.96% 
+<c.white><c.mono_sans>You started a fight in my bar</c.mono_sans></c.white>
+
+679
+00:25:33.860 --> 00:25:35.992 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>and now you're getting</c.mono_sans></c.white>
+
+680
+00:25:33.860 --> 00:25:35.992 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>a promotion?</c.mono_sans></c.white>
+
+681
+00:25:37.078 --> 00:25:38.559 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>What kind of way is that</c.mono_sans></c.white>
+
+682
+00:25:37.078 --> 00:25:38.559 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>to run an army?</c.mono_sans></c.white>
+
+683
+00:25:39.358 --> 00:25:43.157 position:27.14%,start align:start size:55.71% line:73.96% 
+<c.white><c.mono_sans>Dukat wasn't happy about</c.mono_sans></c.white>
+
+684
+00:25:39.358 --> 00:25:43.157 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>what happened. I had to find</c.mono_sans></c.white>
+
+685
+00:25:39.358 --> 00:25:43.157 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>a way to make it up to him.</c.mono_sans></c.white>
+
+686
+00:25:43.796 --> 00:25:45.396 position:23.33%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>I hope it was something big.</c.mono_sans></c.white>
+
+687
+00:25:46.396 --> 00:25:47.675 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>Let's just say...</c.mono_sans></c.white>
+
+688
+00:25:48.826 --> 00:25:50.356 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>It will change the course</c.mono_sans></c.white>
+
+689
+00:25:48.826 --> 00:25:50.356 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>of history.</c.mono_sans></c.white>
+
+690
+00:25:53.194 --> 00:25:54.535 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>As a businessman</c.mono_sans></c.white>
+
+691
+00:25:54.593 --> 00:25:57.749 position:44.29%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I'm very interested</c.mono_sans></c.white>
+
+692
+00:25:54.593 --> 00:25:57.749 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>in the course of history.</c.mono_sans></c.white>
+
+693
+00:25:59.992 --> 00:26:01.431 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>This one's on me.</c.mono_sans></c.white>
+
+694
+00:26:03.231 --> 00:26:05.590 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>Well, that's very</c.mono_sans></c.white>
+
+695
+00:26:03.231 --> 00:26:05.590 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>kind of you, Quark...</c.mono_sans></c.white>
+
+696
+00:26:11.650 --> 00:26:12.710 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>but I can't talk about it.</c.mono_sans></c.white>
+
+697
+00:26:14.928 --> 00:26:15.729 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Of course.</c.mono_sans></c.white>
+
+698
+00:26:16.269 --> 00:26:19.531 position:55.71%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>I understand.</c.mono_sans></c.white>
+
+699
+00:26:16.269 --> 00:26:19.531 position:23.33%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>Here. Let me pour you another.</c.mono_sans></c.white>
+
+700
+00:26:34.443 --> 00:26:37.762 position:25.24%,start align:start size:59.52% line:73.96% 
+<c.white><c.mono_sans>There's obviously a lot of</c.mono_sans></c.white>
+
+701
+00:26:34.443 --> 00:26:37.762 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>bad blood between the</c.mono_sans></c.white>
+
+702
+00:26:34.443 --> 00:26:37.762 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>Cardassians and the Jem'Hadar.</c.mono_sans></c.white>
+
+703
+00:26:38.322 --> 00:26:40.923 position:30.95%,start align:start size:50.00% line:73.96% 
+<c.white><c.mono_sans>It wouldn't take much</c.mono_sans></c.white>
+
+704
+00:26:38.322 --> 00:26:40.923 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>to get them to go</c.mono_sans></c.white>
+
+705
+00:26:38.322 --> 00:26:40.923 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>at each other again.</c.mono_sans></c.white>
+
+706
+00:26:41.882 --> 00:26:43.080 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>Yeah, I'm not sure</c.mono_sans></c.white>
+
+707
+00:26:41.882 --> 00:26:43.080 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>we want to do that.</c.mono_sans></c.white>
+
+708
+00:26:43.080 --> 00:26:44.030 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>But it worked so well.</c.mono_sans></c.white>
+
+709
+00:26:45.160 --> 00:26:46.150 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>What do you think, Odo?</c.mono_sans></c.white>
+
+710
+00:26:48.898 --> 00:26:50.639 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>I'm not sure it's a good idea.</c.mono_sans></c.white>
+
+711
+00:26:51.256 --> 00:26:52.057 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>Then we'll do something else.</c.mono_sans></c.white>
+
+712
+00:26:52.356 --> 00:26:53.897 position:42.38%,start align:start size:27.14% line:79.29% 
+<c.white><c.mono_sans>-Major...</c.mono_sans></c.white>
+
+713
+00:26:52.356 --> 00:26:53.897 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>-Something</c.mono_sans></c.white>
+
+714
+00:26:53.897 --> 00:26:55.077 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>that we can all agree on.</c.mono_sans></c.white>
+
+715
+00:26:56.095 --> 00:26:57.095 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>( door chimes )</c.mono_sans></c.white>
+
+716
+00:26:58.736 --> 00:27:00.055 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Who could that be?</c.mono_sans></c.white>
+
+717
+00:27:00.295 --> 00:27:03.334 position:36.67%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>We're just sitting here</c.mono_sans></c.white>
+
+718
+00:27:00.295 --> 00:27:03.334 position:23.33%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>enjoying each other's company.</c.mono_sans></c.white>
+
+719
+00:27:04.374 --> 00:27:05.654 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Right.</c.mono_sans></c.white>
+
+720
+00:27:05.733 --> 00:27:06.692 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Come in.</c.mono_sans></c.white>
+
+721
+00:27:08.692 --> 00:27:10.132 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Brother...</c.mono_sans></c.white>
+
+722
+00:27:10.173 --> 00:27:12.491 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>are you all right?</c.mono_sans></c.white>
+
+723
+00:27:12.531 --> 00:27:15.289 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>No, I am not all right.</c.mono_sans></c.white>
+
+724
+00:27:15.730 --> 00:27:20.629 position:29.05%,start align:start size:51.90% line:10.00% 
+<c.white><c.mono_sans>I just shared a bottle</c.mono_sans></c.white>
+
+725
+00:27:15.730 --> 00:27:20.629 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>of</c.mono_sans></c.white><c.white><c.mono_sans><i> kanar</i></c.mono_sans></c.white><c.white><c.mono_sans> with Damar.</c.mono_sans></c.white>
+
+726
+00:27:20.050 --> 00:27:21.929 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>( laughing )</c.mono_sans></c.white>
+
+727
+00:27:22.226 --> 00:27:23.288 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>That rhymes.</c.mono_sans></c.white>
+
+728
+00:27:23.327 --> 00:27:25.028 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>( laughing )</c.mono_sans></c.white>
+
+729
+00:27:25.048 --> 00:27:26.367 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>You're drunk.</c.mono_sans></c.white>
+
+730
+00:27:26.727 --> 00:27:29.599 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>Of course I'm drunk.</c.mono_sans></c.white>
+
+731
+00:27:29.945 --> 00:27:31.546 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>I wouldn't risk coming in here</c.mono_sans></c.white>
+
+732
+00:27:31.546 --> 00:27:34.708 position:19.52%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>and associating myself</c.mono_sans></c.white>
+
+733
+00:27:31.546 --> 00:27:34.708 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>with your little resistance cell</c.mono_sans></c.white>
+
+734
+00:27:34.708 --> 00:27:35.887 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>if I wasn't drunk.</c.mono_sans></c.white>
+
+735
+00:27:36.227 --> 00:27:37.707 position:32.86%,start align:start size:46.19% line:10.00% 
+<c.white><c.mono_sans>Oh, well then maybe</c.mono_sans></c.white>
+
+736
+00:27:36.227 --> 00:27:37.707 position:32.86%,start align:start size:44.29% line:15.33% 
+<c.white><c.mono_sans>you'd better leave</c.mono_sans></c.white>
+
+737
+00:27:37.707 --> 00:27:38.626 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>before someone sees you.</c.mono_sans></c.white>
+
+738
+00:27:39.346 --> 00:27:40.666 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>I tried.</c.mono_sans></c.white>
+
+739
+00:27:41.305 --> 00:27:43.625 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>I tried my best</c.mono_sans></c.white>
+
+740
+00:27:43.625 --> 00:27:46.535 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>to run my establishment</c.mono_sans></c.white>
+
+741
+00:27:43.625 --> 00:27:46.535 position:29.05%,start align:start size:51.90% line:15.33% 
+<c.white><c.mono_sans>under this occupation.</c.mono_sans></c.white>
+
+742
+00:27:47.260 --> 00:27:49.182 position:32.86%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans>But you know what?</c.mono_sans></c.white>
+
+743
+00:27:47.260 --> 00:27:49.182 position:38.57%,start align:start size:32.86% line:15.33% 
+<c.white><c.mono_sans>It's no fun.</c.mono_sans></c.white>
+
+744
+00:27:52.499 --> 00:27:54.178 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I don't like Cardassians.</c.mono_sans></c.white>
+
+745
+00:27:54.938 --> 00:28:00.536 position:19.52%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>They're mean and arrogant.</c.mono_sans></c.white>
+
+746
+00:27:54.938 --> 00:28:00.536 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>And I can't stand the Jem'Hadar.</c.mono_sans></c.white>
+
+747
+00:28:00.576 --> 00:28:02.365 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>They're creepy.</c.mono_sans></c.white>
+
+748
+00:28:02.055 --> 00:28:06.774 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>They just stand there like</c.mono_sans></c.white>
+
+749
+00:28:02.055 --> 00:28:06.774 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>statues staring at you.</c.mono_sans></c.white>
+
+750
+00:28:09.773 --> 00:28:10.933 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>That's it.</c.mono_sans></c.white>
+
+751
+00:28:12.733 --> 00:28:15.975 position:30.95%,start align:start size:50.00% line:73.96% 
+<c.white><c.mono_sans>I don't want to spend</c.mono_sans></c.white>
+
+752
+00:28:12.733 --> 00:28:15.975 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>the rest of my life doing</c.mono_sans></c.white>
+
+753
+00:28:12.733 --> 00:28:15.975 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>business with these people.</c.mono_sans></c.white>
+
+754
+00:28:16.232 --> 00:28:17.773 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>I want the Federation back.</c.mono_sans></c.white>
+
+755
+00:28:19.031 --> 00:28:20.831 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>I want to sell root beer again.</c.mono_sans></c.white>
+
+756
+00:28:21.030 --> 00:28:22.271 position:46.19%,start align:start size:19.52% line:79.29% 
+<c.white><c.mono_sans>KIRA:</c.mono_sans></c.white>
+
+757
+00:28:21.030 --> 00:28:22.271 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>All right.</c.mono_sans></c.white>
+
+758
+00:28:22.470 --> 00:28:25.270 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>-You made your point. Relax.</c.mono_sans></c.white>
+
+759
+00:28:22.470 --> 00:28:25.270 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>-How can I relax</c.mono_sans></c.white>
+
+760
+00:28:26.429 --> 00:28:28.949 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>when there are thousands</c.mono_sans></c.white>
+
+761
+00:28:26.429 --> 00:28:28.949 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>of Jem'Hadar ships</c.mono_sans></c.white>
+
+762
+00:28:28.989 --> 00:28:31.747 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>sitting on the other side</c.mono_sans></c.white>
+
+763
+00:28:28.989 --> 00:28:31.747 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>of the wormhole</c.mono_sans></c.white>
+
+764
+00:28:32.747 --> 00:28:34.186 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>waiting to come through?</c.mono_sans></c.white>
+
+765
+00:28:34.506 --> 00:28:36.488 position:30.95%,start align:start size:50.00% line:10.00% 
+<c.white><c.mono_sans>Don't worry about it.</c.mono_sans></c.white>
+
+766
+00:28:34.506 --> 00:28:36.488 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>They're stuck there.</c.mono_sans></c.white>
+
+767
+00:28:37.462 --> 00:28:39.343 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>Not if what Damar</c.mono_sans></c.white>
+
+768
+00:28:37.462 --> 00:28:39.343 position:34.76%,start align:start size:40.48% line:15.33% 
+<c.white><c.mono_sans>told me is true.</c.mono_sans></c.white>
+
+769
+00:28:42.403 --> 00:28:43.796 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>What are you talking about?</c.mono_sans></c.white>
+
+770
+00:28:44.045 --> 00:28:49.268 position:23.33%,start align:start size:65.24% line:10.00% 
+<c.white><c.mono_sans>He said he came up with a way</c.mono_sans></c.white>
+
+771
+00:28:44.045 --> 00:28:49.268 position:27.14%,start align:start size:55.71% line:15.33% 
+<c.white><c.mono_sans>to deactivate the mines.</c.mono_sans></c.white>
+
+772
+00:28:50.242 --> 00:28:52.763 position:19.52%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>Dukat wants him</c.mono_sans></c.white>
+
+773
+00:28:50.242 --> 00:28:52.763 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>to start field tests right away.</c.mono_sans></c.white>
+
+774
+00:28:59.480 --> 00:29:01.381 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Come on, Quark, think.</c.mono_sans></c.white>
+
+775
+00:29:01.381 --> 00:29:03.573 position:29.05%,start align:start size:51.90% line:10.00% 
+<c.white><c.mono_sans>Did Damar say anything</c.mono_sans></c.white>
+
+776
+00:29:01.381 --> 00:29:03.573 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans>about how he was planning</c.mono_sans></c.white>
+
+777
+00:29:03.573 --> 00:29:04.724 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>to deactivate the mines?</c.mono_sans></c.white>
+
+778
+00:29:05.492 --> 00:29:06.931 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Yes.</c.mono_sans></c.white>
+
+779
+00:29:07.530 --> 00:29:10.171 position:48.10%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>He said something</c.mono_sans></c.white>
+
+780
+00:29:07.530 --> 00:29:10.171 position:38.57%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>about the station's...</c.mono_sans></c.white>
+
+781
+00:29:10.369 --> 00:29:11.570 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>Defector.</c.mono_sans></c.white>
+
+782
+00:29:12.129 --> 00:29:14.569 position:40.48%,start align:start size:29.05% line:79.29% 
+<c.white><c.mono_sans>-Defector?</c.mono_sans></c.white>
+
+783
+00:29:12.129 --> 00:29:14.569 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>-That's impossible.</c.mono_sans></c.white>
+
+784
+00:29:15.293 --> 00:29:18.095 position:32.86%,start align:start size:44.29% line:73.96% 
+<c.white><c.mono_sans>The only person on</c.mono_sans></c.white>
+
+785
+00:29:15.293 --> 00:29:18.095 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>the station who knows anything</c.mono_sans></c.white>
+
+786
+00:29:15.293 --> 00:29:18.095 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>about the mines is...</c.mono_sans></c.white>
+
+787
+00:29:18.412 --> 00:29:19.412 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>Me.</c.mono_sans></c.white>
+
+788
+00:29:19.612 --> 00:29:22.572 position:63.33%,start align:start size:27.14% line:79.29% 
+<c.white><c.mono_sans>Defector.</c.mono_sans></c.white>
+
+789
+00:29:19.612 --> 00:29:22.572 position:32.86%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>That doesn't sound right.</c.mono_sans></c.white>
+
+790
+00:29:22.572 --> 00:29:25.504 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>Maybe it was... deflector?</c.mono_sans></c.white>
+
+791
+00:29:27.480 --> 00:29:29.050 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Yeah. Yeah, that's it.</c.mono_sans></c.white>
+
+792
+00:29:29.091 --> 00:29:31.730 position:48.10%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>He said something</c.mono_sans></c.white>
+
+793
+00:29:29.091 --> 00:29:31.730 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>about using the station's...</c.mono_sans></c.white>
+
+794
+00:29:32.872 --> 00:29:33.489 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>Deflector array.</c.mono_sans></c.white>
+
+795
+00:29:33.768 --> 00:29:35.009 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>What do you think, Rom?</c.mono_sans></c.white>
+
+796
+00:29:35.329 --> 00:29:38.927 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>-I'm glad it wasn't me.</c.mono_sans></c.white>
+
+797
+00:29:35.329 --> 00:29:38.927 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>-About the deflector array.</c.mono_sans></c.white>
+
+798
+00:29:39.767 --> 00:29:42.047 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>Is there any way to use it</c.mono_sans></c.white>
+
+799
+00:29:39.767 --> 00:29:42.047 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>to deactivate the mines?</c.mono_sans></c.white>
+
+800
+00:29:42.086 --> 00:29:43.007 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>No.</c.mono_sans></c.white>
+
+801
+00:29:43.466 --> 00:29:45.427 position:19.52%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>I designed the mines</c.mono_sans></c.white>
+
+802
+00:29:43.466 --> 00:29:45.427 position:19.52%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>to be self-replicating.</c.mono_sans></c.white>
+
+803
+00:29:45.765 --> 00:29:47.503 position:27.14%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>The only way to keep them</c.mono_sans></c.white>
+
+804
+00:29:45.765 --> 00:29:47.503 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans>from replacing themselves</c.mono_sans></c.white>
+
+805
+00:29:47.524 --> 00:29:50.003 position:32.86%,start align:start size:44.29% line:10.00% 
+<c.white><c.mono_sans>is to isolate them</c.mono_sans></c.white>
+
+806
+00:29:47.524 --> 00:29:50.003 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans>in an anti-graviton beam.</c.mono_sans></c.white>
+
+807
+00:29:50.464 --> 00:29:52.265 position:32.86%,start align:start size:46.19% line:10.00% 
+<c.white><c.mono_sans>The deflector array</c.mono_sans></c.white>
+
+808
+00:29:50.464 --> 00:29:52.265 position:36.67%,start align:start size:36.67% line:15.33% 
+<c.white><c.mono_sans>can't do that.</c.mono_sans></c.white>
+
+809
+00:29:54.423 --> 00:29:55.703 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>Unless...</c.mono_sans></c.white>
+
+810
+00:29:57.382 --> 00:30:00.820 position:34.76%,start align:start size:40.48% line:10.00% 
+<c.white><c.mono_sans>you reconfigured</c.mono_sans></c.white>
+
+811
+00:29:57.382 --> 00:30:00.820 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>the field generators</c.mono_sans></c.white>
+
+812
+00:30:01.719 --> 00:30:03.481 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>and refocused the emitters</c.mono_sans></c.white>
+
+813
+00:30:04.178 --> 00:30:06.920 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>which would turn</c.mono_sans></c.white>
+
+814
+00:30:04.178 --> 00:30:06.920 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>the deflector array</c.mono_sans></c.white>
+
+815
+00:30:07.459 --> 00:30:11.601 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>into one big anti-graviton beam.</c.mono_sans></c.white>
+
+816
+00:30:12.178 --> 00:30:14.979 position:23.33%,start align:start size:63.33% line:10.00% 
+<c.white><c.mono_sans>Why didn't you think of that</c.mono_sans></c.white>
+
+817
+00:30:12.178 --> 00:30:14.979 position:21.43%,start align:start size:69.05% line:15.33% 
+<c.white><c.mono_sans>when you set up the mine field?</c.mono_sans></c.white>
+
+818
+00:30:16.076 --> 00:30:17.478 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>Uh, I don't know.</c.mono_sans></c.white>
+
+819
+00:30:17.496 --> 00:30:19.456 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>( imitating ) Uh,</c.mono_sans></c.white>
+
+820
+00:30:17.496 --> 00:30:19.456 position:34.76%,start align:start size:40.48% line:15.33% 
+<c.white><c.mono_sans>he doesn't know.</c.mono_sans></c.white>
+
+821
+00:30:19.574 --> 00:30:20.574 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Quark.</c.mono_sans></c.white>
+
+822
+00:30:22.175 --> 00:30:24.413 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>How can we disable</c.mono_sans></c.white>
+
+823
+00:30:22.175 --> 00:30:24.413 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>the deflector array?</c.mono_sans></c.white>
+
+824
+00:30:24.814 --> 00:30:28.133 position:32.86%,start align:start size:44.29% line:73.96% 
+<c.white><c.mono_sans>All you have to do</c.mono_sans></c.white>
+
+825
+00:30:24.814 --> 00:30:28.133 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>is access the EPS feed</c.mono_sans></c.white>
+
+826
+00:30:24.814 --> 00:30:28.133 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>and overload the waveguide.</c.mono_sans></c.white>
+
+827
+00:30:28.292 --> 00:30:29.572 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>All right, let's do it.</c.mono_sans></c.white>
+
+828
+00:30:29.613 --> 00:30:31.291 position:46.19%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>But there's no way</c.mono_sans></c.white>
+
+829
+00:30:29.613 --> 00:30:31.291 position:36.67%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>to get to the EPS feed.</c.mono_sans></c.white>
+
+830
+00:30:31.512 --> 00:30:34.033 position:32.86%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>It's in a secured conduit</c.mono_sans></c.white>
+
+831
+00:30:31.512 --> 00:30:34.033 position:44.29%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>rigged with alarms.</c.mono_sans></c.white>
+
+832
+00:30:34.430 --> 00:30:36.351 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>Odo, can you disable</c.mono_sans></c.white>
+
+833
+00:30:34.430 --> 00:30:36.351 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>those alarms?</c.mono_sans></c.white>
+
+834
+00:30:36.989 --> 00:30:39.310 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>I can take them off-line</c.mono_sans></c.white>
+
+835
+00:30:36.989 --> 00:30:39.310 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>for about five minutes</c.mono_sans></c.white>
+
+836
+00:30:39.310 --> 00:30:41.050 position:19.52%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>if I run a security diagnostic.</c.mono_sans></c.white>
+
+837
+00:30:41.070 --> 00:30:42.569 position:19.52%,start align:start size:70.95% line:10.00% 
+<c.white><c.mono_sans>-Will that give you enough time?</c.mono_sans></c.white>
+
+838
+00:30:41.070 --> 00:30:42.569 position:38.57%,start align:start size:32.86% line:15.33% 
+<c.white><c.mono_sans>-I think so.</c.mono_sans></c.white>
+
+839
+00:30:43.558 --> 00:30:44.788 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>I'll run the diagnostic</c.mono_sans></c.white>
+
+840
+00:30:44.788 --> 00:30:46.409 position:25.24%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>as soon as I get to my office</c.mono_sans></c.white>
+
+841
+00:30:44.788 --> 00:30:46.409 position:51.90%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>in the morning.</c.mono_sans></c.white>
+
+842
+00:30:46.947 --> 00:30:49.688 position:40.48%,start align:start size:29.05% line:79.29% 
+<c.white><c.mono_sans>All right.</c.mono_sans></c.white>
+
+843
+00:30:46.947 --> 00:30:49.688 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>You and I will meet here.</c.mono_sans></c.white>
+
+844
+00:30:50.666 --> 00:30:55.264 position:51.90%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>At exactly 0800</c.mono_sans></c.white>
+
+845
+00:30:50.666 --> 00:30:55.264 position:23.33%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>you will begin the diagnostic.</c.mono_sans></c.white>
+
+846
+00:31:01.223 --> 00:31:02.783 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans><i>Has there been any news, sir?</i></c.mono_sans></c.white>
+
+847
+00:31:02.823 --> 00:31:03.822 position:46.19%,start align:start size:19.52% line:84.62% 
+<c.white><c.mono_sans>None.</c.mono_sans></c.white>
+
+848
+00:31:04.262 --> 00:31:06.662 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans><i>The</i></c.mono_sans></c.white><c.white><c.mono_sans> Defiant</c.mono_sans></c.white><c.white><c.mono_sans><i> has been gone</i></c.mono_sans></c.white>
+
+849
+00:31:04.262 --> 00:31:06.662 position:38.57%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans><i>over 16 hours.</i></c.mono_sans></c.white>
+
+850
+00:31:06.941 --> 00:31:07.981 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Mr. Worf</c.mono_sans></c.white>
+
+851
+00:31:08.120 --> 00:31:09.661 position:69.05%,start align:start size:21.43% line:79.29% 
+<c.white><c.mono_sans>I know</c.mono_sans></c.white>
+
+852
+00:31:08.120 --> 00:31:09.661 position:30.95%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>this is difficult for you.</c.mono_sans></c.white>
+
+853
+00:31:10.321 --> 00:31:11.760 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans><i>Yes, sir.</i></c.mono_sans></c.white>
+
+854
+00:31:13.759 --> 00:31:17.621 position:19.52%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans><i>But I sense it is more</i></c.mono_sans></c.white>
+
+855
+00:31:13.759 --> 00:31:17.621 position:19.52%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans><i>difficult for you. The</i></c.mono_sans></c.white><c.white><c.mono_sans> Defiant</c.mono_sans></c.white>
+
+856
+00:31:13.759 --> 00:31:17.621 position:19.52%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans><i>is your ship.</i></c.mono_sans></c.white>
+
+857
+00:31:18.438 --> 00:31:19.518 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Dax'll bring her home.</c.mono_sans></c.white>
+
+858
+00:31:20.636 --> 00:31:23.758 position:23.33%,start align:start size:63.33% line:79.29% 
+<c.white><c.mono_sans>Besides there's no way she's</c.mono_sans></c.white>
+
+859
+00:31:20.636 --> 00:31:23.758 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>going to miss her own wedding.</c.mono_sans></c.white>
+
+860
+00:31:24.836 --> 00:31:27.177 position:34.76%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans><i>No, I suppose not.</i></c.mono_sans></c.white>
+
+861
+00:31:27.735 --> 00:31:29.796 position:29.05%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>As soon as I hear anything,</c.mono_sans></c.white>
+
+862
+00:31:27.735 --> 00:31:29.796 position:46.19%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I'll let you know.</c.mono_sans></c.white>
+
+863
+00:31:30.354 --> 00:31:33.616 position:27.14%,start align:start size:59.52% line:10.00% 
+<c.white><c.mono_sans><i>Thank you, sir. Captain...</i></c.mono_sans></c.white>
+
+864
+00:31:30.354 --> 00:31:33.616 position:27.14%,start align:start size:57.62% line:15.33% 
+<c.white><c.mono_sans><i>You should get some rest.</i></c.mono_sans></c.white>
+
+865
+00:31:34.193 --> 00:31:35.872 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Not tonight, Mr. Worf.</c.mono_sans></c.white>
+
+866
+00:31:37.072 --> 00:31:38.271 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>Not tonight.</c.mono_sans></c.white>
+
+867
+00:31:54.227 --> 00:31:56.626 position:46.19%,start align:start size:19.52% line:10.00% 
+<c.white><c.mono_sans>-Ben?</c.mono_sans></c.white>
+
+868
+00:31:54.227 --> 00:31:56.626 position:42.38%,start align:start size:27.14% line:15.33% 
+<c.white><c.mono_sans>-Admiral.</c.mono_sans></c.white>
+
+869
+00:31:56.826 --> 00:31:58.386 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>It's late.</c.mono_sans></c.white>
+
+870
+00:31:58.425 --> 00:32:00.504 position:25.24%,start align:start size:59.52% line:79.29% 
+<c.white><c.mono_sans>I know. I was just waiting</c.mono_sans></c.white>
+
+871
+00:31:58.425 --> 00:32:00.504 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>to see if there was any news.</c.mono_sans></c.white>
+
+872
+00:32:02.887 --> 00:32:04.846 position:34.76%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>Ben, we've got a big day</c.mono_sans></c.white>
+
+873
+00:32:02.887 --> 00:32:04.846 position:40.48%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>ahead of us tomorrow.</c.mono_sans></c.white>
+
+874
+00:32:05.363 --> 00:32:07.524 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>I want to nail down the details</c.mono_sans></c.white>
+
+875
+00:32:05.363 --> 00:32:07.524 position:34.76%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>on the Bolian operation.</c.mono_sans></c.white>
+
+876
+00:32:07.524 --> 00:32:09.124 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I need you focused.</c.mono_sans></c.white>
+
+877
+00:32:07.524 --> 00:32:09.124 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>I will be.</c.mono_sans></c.white>
+
+878
+00:32:09.943 --> 00:32:11.163 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I know how you feel</c.mono_sans></c.white>
+
+879
+00:32:09.943 --> 00:32:11.163 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>about your crew</c.mono_sans></c.white>
+
+880
+00:32:11.163 --> 00:32:13.754 position:25.24%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>but you and I are responsible</c.mono_sans></c.white>
+
+881
+00:32:11.163 --> 00:32:13.754 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>for an entire tactical wing.</c.mono_sans></c.white>
+
+882
+00:32:14.001 --> 00:32:16.762 position:32.86%,start align:start size:44.29% line:73.96% 
+<c.white><c.mono_sans>Thousands of lives</c.mono_sans></c.white>
+
+883
+00:32:14.001 --> 00:32:16.762 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>depend on the decisions</c.mono_sans></c.white>
+
+884
+00:32:14.001 --> 00:32:16.762 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>we make tomorrow.</c.mono_sans></c.white>
+
+885
+00:32:17.619 --> 00:32:20.560 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>You can't afford to be awake all</c.mono_sans></c.white>
+
+886
+00:32:17.619 --> 00:32:20.560 position:19.52%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>night worrying about one ship.</c.mono_sans></c.white>
+
+887
+00:32:21.059 --> 00:32:25.121 position:27.14%,start align:start size:57.62% line:73.96% 
+<c.white><c.mono_sans>Admiral, you can order me</c.mono_sans></c.white>
+
+888
+00:32:21.059 --> 00:32:25.121 position:23.33%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>to my quarters but there's no</c.mono_sans></c.white>
+
+889
+00:32:21.059 --> 00:32:25.121 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>way I'm going to sleep.</c.mono_sans></c.white>
+
+890
+00:32:25.736 --> 00:32:27.458 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>Not as long as</c.mono_sans></c.white>
+
+891
+00:32:25.736 --> 00:32:27.458 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant</i></c.mono_sans></c.white><c.white><c.mono_sans> is out there.</c.mono_sans></c.white>
+
+892
+00:32:29.802 --> 00:32:30.174 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>All right, as you wish...</c.mono_sans></c.white>
+
+893
+00:32:31.835 --> 00:32:33.236 position:27.14%,start align:start size:57.62% line:10.00% 
+<c.white><c.mono_sans>But you should understand</c.mono_sans></c.white>
+
+894
+00:32:31.835 --> 00:32:33.236 position:40.48%,start align:start size:29.05% line:15.33% 
+<c.white><c.mono_sans>one thing.</c.mono_sans></c.white>
+
+895
+00:32:34.078 --> 00:32:36.979 position:19.52%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>With any luck, we'll be sending</c.mono_sans></c.white>
+
+896
+00:32:34.078 --> 00:32:36.979 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>the</c.mono_sans></c.white><c.white><c.mono_sans><i> Defiant</i></c.mono_sans></c.white><c.white><c.mono_sans> on a lot of missions</c.mono_sans></c.white>
+
+897
+00:32:38.654 --> 00:32:40.034 position:50.00%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>and you're going</c.mono_sans></c.white>
+
+898
+00:32:38.654 --> 00:32:40.034 position:30.95%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>to have to get used to it.</c.mono_sans></c.white>
+
+899
+00:32:42.892 --> 00:32:43.972 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Good night.</c.mono_sans></c.white>
+
+900
+00:32:55.248 --> 00:32:58.328 position:29.05%,start align:start size:51.90% line:10.00% 
+<c.white><c.mono_sans>Have our people always</c.mono_sans></c.white>
+
+901
+00:32:55.248 --> 00:32:58.328 position:30.95%,start align:start size:48.10% line:15.33% 
+<c.white><c.mono_sans>been shape-shifters?</c.mono_sans></c.white>
+
+902
+00:32:59.007 --> 00:33:01.286 position:44.29%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Or was there a time</c.mono_sans></c.white>
+
+903
+00:32:59.007 --> 00:33:01.286 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>when we were like the solids?</c.mono_sans></c.white>
+
+904
+00:33:01.727 --> 00:33:07.405 position:19.52%,start align:start size:61.43% line:73.96% 
+<c.white><c.mono_sans>Eons ago, we were like them</c.mono_sans></c.white>
+
+905
+00:33:01.727 --> 00:33:07.405 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>limited to one form, but then...</c.mono_sans></c.white>
+
+906
+00:33:01.727 --> 00:33:07.405 position:19.52%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>we evolved.</c.mono_sans></c.white>
+
+907
+00:33:07.445 --> 00:33:08.525 position:46.19%,start align:start size:19.52% line:84.62% 
+<c.white><c.mono_sans>Ah...</c.mono_sans></c.white>
+
+908
+00:33:09.025 --> 00:33:12.027 position:19.52%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>On the homeworld</c.mono_sans></c.white>
+
+909
+00:33:09.025 --> 00:33:12.027 position:19.52%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>are you always in the Link</c.mono_sans></c.white>
+
+910
+00:33:12.027 --> 00:33:13.866 position:32.86%,start align:start size:46.19% line:10.00% 
+<c.white><c.mono_sans>or do you sometimes</c.mono_sans></c.white>
+
+911
+00:33:12.027 --> 00:33:13.866 position:34.76%,start align:start size:40.48% line:15.33% 
+<c.white><c.mono_sans>take solid form?</c.mono_sans></c.white>
+
+912
+00:33:14.123 --> 00:33:15.323 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>We prefer the Link</c.mono_sans></c.white>
+
+913
+00:33:15.985 --> 00:33:19.508 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>but, on occasion, it is</c.mono_sans></c.white>
+
+914
+00:33:15.985 --> 00:33:19.508 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>interesting to exist as</c.mono_sans></c.white>
+
+915
+00:33:15.985 --> 00:33:19.508 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>something else,</c.mono_sans></c.white>
+
+916
+00:33:19.720 --> 00:33:23.159 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>a tree perhaps...</c.mono_sans></c.white>
+
+917
+00:33:19.720 --> 00:33:23.159 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>A cloud in the sky.</c.mono_sans></c.white>
+
+918
+00:33:23.280 --> 00:33:25.945 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>Ah... a cloud.</c.mono_sans></c.white>
+
+919
+00:33:28.718 --> 00:33:30.157 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>How many of us are there?</c.mono_sans></c.white>
+
+920
+00:33:30.196 --> 00:33:31.077 position:46.19%,start align:start size:19.52% line:84.62% 
+<c.white><c.mono_sans>Oh...</c.mono_sans></c.white>
+
+921
+00:33:31.798 --> 00:33:33.378 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>so many questions, Odo.</c.mono_sans></c.white>
+
+922
+00:33:34.496 --> 00:33:38.619 position:19.52%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>I'm sorry but there's still so</c.mono_sans></c.white>
+
+923
+00:33:34.496 --> 00:33:38.619 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>much that isn't clear to me yet.</c.mono_sans></c.white>
+
+924
+00:33:39.655 --> 00:33:43.117 position:27.14%,start align:start size:57.62% line:73.96% 
+<c.white><c.mono_sans>If you link with me again</c.mono_sans></c.white>
+
+925
+00:33:39.655 --> 00:33:43.117 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>everything will be made</c.mono_sans></c.white>
+
+926
+00:33:39.655 --> 00:33:43.117 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>clear to you.</c.mono_sans></c.white>
+
+927
+00:33:44.214 --> 00:33:48.917 position:29.05%,start align:start size:51.90% line:73.96% 
+<c.white><c.mono_sans>You have to understand</c.mono_sans></c.white>
+
+928
+00:33:44.214 --> 00:33:48.917 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>that the Link is very</c.mono_sans></c.white>
+
+929
+00:33:44.214 --> 00:33:48.917 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>overwhelming for me.</c.mono_sans></c.white>
+
+930
+00:33:49.912 --> 00:33:53.534 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>Right now, it's easier to talk.</c.mono_sans></c.white>
+
+931
+00:33:49.912 --> 00:33:53.534 position:36.67%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>But words are so clumsy</c.mono_sans></c.white>
+
+932
+00:33:53.570 --> 00:33:55.292 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>so imprecise.</c.mono_sans></c.white>
+
+933
+00:33:55.511 --> 00:33:55.971 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Even so.</c.mono_sans></c.white>
+
+934
+00:33:58.408 --> 00:33:59.029 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>As you wish.</c.mono_sans></c.white>
+
+935
+00:34:02.968 --> 00:34:04.368 position:21.43%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>You haven't told me your name.</c.mono_sans></c.white>
+
+936
+00:34:05.267 --> 00:34:07.108 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>What use would</c.mono_sans></c.white>
+
+937
+00:34:05.267 --> 00:34:07.108 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I have for a name?</c.mono_sans></c.white>
+
+938
+00:34:07.847 --> 00:34:09.908 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>To differentiate yourself</c.mono_sans></c.white>
+
+939
+00:34:07.847 --> 00:34:09.908 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>from the others.</c.mono_sans></c.white>
+
+940
+00:34:10.846 --> 00:34:11.406 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>I don't.</c.mono_sans></c.white>
+
+941
+00:34:12.244 --> 00:34:15.126 position:38.57%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>But you are a separate</c.mono_sans></c.white>
+
+942
+00:34:12.244 --> 00:34:15.126 position:46.19%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>being, aren't you?</c.mono_sans></c.white>
+
+943
+00:34:16.543 --> 00:34:17.783 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>In a sense.</c.mono_sans></c.white>
+
+944
+00:34:20.942 --> 00:34:25.625 position:19.52%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans>When you return to the Link</c.mono_sans></c.white>
+
+945
+00:34:20.942 --> 00:34:25.625 position:19.52%,start align:start size:67.14% line:84.62% 
+<c.white><c.mono_sans>what will become of the entity</c.mono_sans></c.white>
+
+946
+00:34:25.641 --> 00:34:26.781 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I'm talking to right now?</c.mono_sans></c.white>
+
+947
+00:34:27.720 --> 00:34:29.402 position:50.00%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>The drop becomes</c.mono_sans></c.white>
+
+948
+00:34:27.720 --> 00:34:29.402 position:61.43%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>the ocean.</c.mono_sans></c.white>
+
+949
+00:34:30.881 --> 00:34:33.342 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>And if you choose</c.mono_sans></c.white>
+
+950
+00:34:30.881 --> 00:34:33.342 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>to take solid form again?</c.mono_sans></c.white>
+
+951
+00:34:34.118 --> 00:34:36.160 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>The ocean becomes a drop.</c.mono_sans></c.white>
+
+952
+00:34:37.553 --> 00:34:38.438 position:46.19%,start align:start size:19.52% line:84.62% 
+<c.white><c.mono_sans>Ah...</c.mono_sans></c.white>
+
+953
+00:34:39.717 --> 00:34:40.917 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Yes.</c.mono_sans></c.white>
+
+954
+00:34:42.436 --> 00:34:43.997 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>I think I'm beginning</c.mono_sans></c.white>
+
+955
+00:34:42.436 --> 00:34:43.997 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>to understand.</c.mono_sans></c.white>
+
+956
+00:34:44.975 --> 00:34:46.897 position:19.52%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Then you can answer</c.mono_sans></c.white>
+
+957
+00:34:44.975 --> 00:34:46.897 position:19.52%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>your own question.</c.mono_sans></c.white>
+
+958
+00:34:47.754 --> 00:34:49.195 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>How many of us are there?</c.mono_sans></c.white>
+
+959
+00:34:50.854 --> 00:34:53.075 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>One. And many.</c.mono_sans></c.white>
+
+960
+00:34:53.974 --> 00:34:55.875 position:38.57%,start align:start size:34.76% line:79.29% 
+<c.white><c.mono_sans>It depends on</c.mono_sans></c.white>
+
+961
+00:34:53.974 --> 00:34:55.875 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>how you look at it.</c.mono_sans></c.white>
+
+962
+00:34:56.092 --> 00:34:56.952 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>Very good.</c.mono_sans></c.white>
+
+963
+00:34:57.551 --> 00:34:59.453 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>You are beginning to understand.</c.mono_sans></c.white>
+
+964
+00:35:01.490 --> 00:35:04.013 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>But there's so much</c.mono_sans></c.white>
+
+965
+00:35:01.490 --> 00:35:04.013 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>you don't know.</c.mono_sans></c.white>
+
+966
+00:35:06.510 --> 00:35:06.950 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Tell me.</c.mono_sans></c.white>
+
+967
+00:35:07.349 --> 00:35:08.309 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>Oh.</c.mono_sans></c.white>
+
+968
+00:35:08.808 --> 00:35:11.950 position:36.67%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>Words are insufficient.</c.mono_sans></c.white>
+
+969
+00:35:08.808 --> 00:35:11.950 position:44.29%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>Link with me again.</c.mono_sans></c.white>
+
+970
+00:35:12.327 --> 00:35:15.348 position:23.33%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>It is the only way I can give</c.mono_sans></c.white>
+
+971
+00:35:12.327 --> 00:35:15.348 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>you the understanding you seek.</c.mono_sans></c.white>
+
+972
+00:35:16.405 --> 00:35:16.846 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>I can't.</c.mono_sans></c.white>
+
+973
+00:35:17.926 --> 00:35:18.646 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>Why not?</c.mono_sans></c.white>
+
+974
+00:35:20.625 --> 00:35:21.645 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>I promised Kira.</c.mono_sans></c.white>
+
+975
+00:35:23.164 --> 00:35:26.746 position:19.52%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>She is a solid.</c.mono_sans></c.white>
+
+976
+00:35:23.164 --> 00:35:26.746 position:19.52%,start align:start size:70.95% line:84.62% 
+<c.white><c.mono_sans>This has nothing to do with her.</c.mono_sans></c.white>
+
+977
+00:35:27.643 --> 00:35:31.042 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>This is about you</c.mono_sans></c.white>
+
+978
+00:35:27.643 --> 00:35:31.042 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>about what you want.</c.mono_sans></c.white>
+
+979
+00:35:41.659 --> 00:35:43.300 position:38.57%,start align:start size:32.86% line:79.29% 
+<c.white><c.mono_sans>-Am I early?</c.mono_sans></c.white>
+
+980
+00:35:41.659 --> 00:35:43.300 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>-A little.</c.mono_sans></c.white>
+
+981
+00:35:44.038 --> 00:35:45.839 position:44.29%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>I hope there's more</c.mono_sans></c.white>
+
+982
+00:35:44.038 --> 00:35:45.839 position:21.43%,start align:start size:69.05% line:84.62% 
+<c.white><c.mono_sans>than just fruit in that basket.</c.mono_sans></c.white>
+
+983
+00:35:46.377 --> 00:35:47.837 position:34.76%,start align:start size:40.48% line:79.29% 
+<c.white><c.mono_sans>I needed a place</c.mono_sans></c.white>
+
+984
+00:35:46.377 --> 00:35:47.837 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>to hide my tools.</c.mono_sans></c.white>
+
+985
+00:35:48.037 --> 00:35:50.979 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>In case anybody asks,</c.mono_sans></c.white>
+
+986
+00:35:48.037 --> 00:35:50.979 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>I'm making a delivery.</c.mono_sans></c.white>
+
+987
+00:35:52.015 --> 00:35:52.395 position:44.29%,start align:start size:21.43% line:84.62% 
+<c.white><c.mono_sans>Right.</c.mono_sans></c.white>
+
+988
+00:35:54.255 --> 00:35:55.415 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Here's your fruit.</c.mono_sans></c.white>
+
+989
+00:35:55.974 --> 00:35:57.375 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>I didn't order any fruit.</c.mono_sans></c.white>
+
+990
+00:35:58.334 --> 00:36:00.733 position:25.24%,start align:start size:59.52% line:10.00% 
+<c.white><c.mono_sans>Oh, your brother sent this</c.mono_sans></c.white>
+
+991
+00:35:58.334 --> 00:36:00.733 position:40.48%,start align:start size:29.05% line:15.33% 
+<c.white><c.mono_sans>didn't he?</c.mono_sans></c.white>
+
+992
+00:36:01.493 --> 00:36:04.134 position:21.43%,start align:start size:67.14% line:73.96% 
+<c.white><c.mono_sans>If he is trying to win me over</c.mono_sans></c.white>
+
+993
+00:36:01.493 --> 00:36:04.134 position:32.86%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans>tell him it's just</c.mono_sans></c.white>
+
+994
+00:36:01.493 --> 00:36:04.134 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>not going to work.</c.mono_sans></c.white>
+
+995
+00:36:04.752 --> 00:36:06.212 position:40.48%,start align:start size:30.95% line:79.29% 
+<c.white><c.mono_sans>Better yet,</c.mono_sans></c.white>
+
+996
+00:36:04.752 --> 00:36:06.212 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>I'll tell him myself.</c.mono_sans></c.white>
+
+997
+00:36:21.707 --> 00:36:24.345 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>Odo should be in his</c.mono_sans></c.white>
+
+998
+00:36:21.707 --> 00:36:24.345 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>office by now.</c.mono_sans></c.white>
+
+999
+00:36:26.425 --> 00:36:27.705 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Now.</c.mono_sans></c.white>
+
+1000
+00:36:27.945 --> 00:36:30.464 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>Remember, he's going to</c.mono_sans></c.white>
+
+1001
+00:36:27.945 --> 00:36:30.464 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>interrupt the sensor alarms</c.mono_sans></c.white>
+
+1002
+00:36:30.504 --> 00:36:32.304 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>at exactly 0800 hours.</c.mono_sans></c.white>
+
+1003
+00:36:32.304 --> 00:36:33.635 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>I'll be ready.</c.mono_sans></c.white>
+
+1004
+00:36:34.883 --> 00:36:38.065 position:30.95%,start align:start size:50.00% line:73.96% 
+<c.white><c.mono_sans>If there's a problem,</c.mono_sans></c.white>
+
+1005
+00:36:34.883 --> 00:36:38.065 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>I'll contact you.</c.mono_sans></c.white>
+
+1006
+00:36:34.883 --> 00:36:38.065 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>Good luck with your delivery.</c.mono_sans></c.white>
+
+1007
+00:36:54.757 --> 00:36:56.396 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>Computer, time.</c.mono_sans></c.white>
+
+1008
+00:36:56.476 --> 00:36:58.876 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans><i>0700 hours, 58 minutes.</i></c.mono_sans></c.white>
+
+1009
+00:36:58.916 --> 00:37:00.635 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Two minutes to go.</c.mono_sans></c.white>
+
+1010
+00:37:17.670 --> 00:37:18.669 position:46.19%,start align:start size:17.62% line:84.62% 
+<c.white><c.mono_sans>Odo.</c.mono_sans></c.white>
+
+1011
+00:37:20.789 --> 00:37:22.709 position:23.33%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>Kira to Odo. Please respond.</c.mono_sans></c.white>
+
+1012
+00:37:23.429 --> 00:37:24.869 position:40.48%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans><i>Kira to Odo.</i></c.mono_sans></c.white>
+
+1013
+00:37:27.125 --> 00:37:27.748 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans><i>Odo, answer me.</i></c.mono_sans></c.white>
+
+1014
+00:37:36.365 --> 00:37:37.205 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>Computer, time.</c.mono_sans></c.white>
+
+1015
+00:37:37.484 --> 00:37:40.243 position:27.14%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans>COMPUTER:</c.mono_sans></c.white><c.white><c.mono_sans><i> 0700 hours, 59</i></c.mono_sans></c.white>
+
+1016
+00:37:37.484 --> 00:37:40.243 position:44.29%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans><i>minutes.</i></c.mono_sans></c.white>
+
+1017
+00:37:41.443 --> 00:37:44.802 position:23.33%,start align:start size:65.24% line:79.29% 
+<c.white><c.mono_sans>Hello, Major. Just the person</c.mono_sans></c.white>
+
+1018
+00:37:41.443 --> 00:37:44.802 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I was looking for.</c.mono_sans></c.white>
+
+1019
+00:37:46.221 --> 00:37:48.722 position:34.76%,start align:start size:40.48% line:73.96% 
+<c.white><c.mono_sans>Congratulations,</c.mono_sans></c.white>
+
+1020
+00:37:46.221 --> 00:37:48.722 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>on your promotion but</c.mono_sans></c.white>
+
+1021
+00:37:46.221 --> 00:37:48.722 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>we'll have to discuss</c.mono_sans></c.white>
+
+1022
+00:37:48.722 --> 00:37:50.181 position:30.95%,start align:start size:48.10% line:79.29% 
+<c.white><c.mono_sans>the personnel report</c.mono_sans></c.white>
+
+1023
+00:37:48.722 --> 00:37:50.181 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>another time.</c.mono_sans></c.white>
+
+1024
+00:37:52.071 --> 00:37:53.060 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>We'll discuss it now.</c.mono_sans></c.white>
+
+1025
+00:37:54.859 --> 00:37:55.539 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>I don't think so.</c.mono_sans></c.white>
+
+1026
+00:38:00.018 --> 00:38:02.097 position:38.57%,start align:start size:32.86% line:79.29% 
+<c.white><c.mono_sans>Kira to Rom.</c.mono_sans></c.white>
+
+1027
+00:38:00.018 --> 00:38:02.097 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>Don't open that hatch.</c.mono_sans></c.white>
+
+1028
+00:38:02.737 --> 00:38:04.096 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>I already did.</c.mono_sans></c.white>
+
+1029
+00:38:04.459 --> 00:38:05.695 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>KIRA:</c.mono_sans></c.white><c.white><c.mono_sans><i> Get out of there.</i></c.mono_sans></c.white>
+
+1030
+00:38:05.736 --> 00:38:07.575 position:34.76%,start align:start size:42.38% line:84.62% 
+<c.white><c.mono_sans>( alarm blaring )</c.mono_sans></c.white>
+
+1031
+00:38:07.615 --> 00:38:10.832 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>Intruder alert. Come with me.</c.mono_sans></c.white>
+
+1032
+00:38:27.689 --> 00:38:29.408 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Well, well...</c.mono_sans></c.white>
+
+1033
+00:38:29.448 --> 00:38:31.008 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>what do we have here?</c.mono_sans></c.white>
+
+1034
+00:38:34.760 --> 00:38:38.805 position:21.43%,start align:start size:67.14% line:79.29% 
+<c.white><c.mono_sans>SISKO:</c.mono_sans></c.white><c.white><c.mono_sans><i> Captain's Log, Tactical</i></c.mono_sans></c.white>
+
+1035
+00:38:34.760 --> 00:38:38.805 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans><i>Update, Stardate 51149.5.</i></c.mono_sans></c.white>
+
+1036
+00:38:38.805 --> 00:38:40.630 position:29.05%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans><i>The</i></c.mono_sans></c.white><c.white><c.mono_sans> Defiant</c.mono_sans></c.white><c.white><c.mono_sans><i> has returned</i></c.mono_sans></c.white>
+
+1037
+00:38:38.805 --> 00:38:40.630 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans><i>to Starbase 375</i></c.mono_sans></c.white>
+
+1038
+00:38:41.388 --> 00:38:43.870 position:25.24%,start align:start size:61.43% line:79.29% 
+<c.white><c.mono_sans><i>after its successful attack</i></c.mono_sans></c.white>
+
+1039
+00:38:41.388 --> 00:38:43.870 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans><i>on the Dominion sensor array.</i></c.mono_sans></c.white>
+
+1040
+00:38:44.443 --> 00:38:46.004 position:34.76%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans><i>Admiral Ross and I</i></c.mono_sans></c.white>
+
+1041
+00:38:44.443 --> 00:38:46.004 position:36.67%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans><i>have recommended</i></c.mono_sans></c.white>
+
+1042
+00:38:46.164 --> 00:38:48.245 position:34.76%,start align:start size:44.29% line:79.29% 
+<c.white><c.mono_sans><i>that Commander Dax</i></c.mono_sans></c.white>
+
+1043
+00:38:46.164 --> 00:38:48.245 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans><i>and the entire</i></c.mono_sans></c.white><c.white><c.mono_sans> Defiant</c.mono_sans></c.white><c.white><c.mono_sans><i> crew</i></c.mono_sans></c.white>
+
+1044
+00:38:48.503 --> 00:38:51.204 position:29.05%,start align:start size:55.71% line:79.29% 
+<c.white><c.mono_sans><i>be cited for exceptional</i></c.mono_sans></c.white>
+
+1045
+00:38:48.503 --> 00:38:51.204 position:25.24%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans><i>performance of their duties.</i></c.mono_sans></c.white>
+
+1046
+00:38:53.301 --> 00:38:54.541 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>NOG: Admiral on deck!</c.mono_sans></c.white>
+
+1047
+00:38:54.581 --> 00:38:55.701 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>Carry on.</c.mono_sans></c.white>
+
+1048
+00:38:55.741 --> 00:38:58.300 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>Nog, Saurian brandy</c.mono_sans></c.white>
+
+1049
+00:38:55.741 --> 00:38:58.300 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>for the brass.</c.mono_sans></c.white>
+
+1050
+00:38:59.779 --> 00:39:02.698 position:19.52%,start align:start size:70.95% line:79.29% 
+<c.white><c.mono_sans>Dax, could you tell Ensign Kirby</c.mono_sans></c.white>
+
+1051
+00:38:59.779 --> 00:39:02.698 position:19.52%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>how I took over the con</c.mono_sans></c.white>
+
+1052
+00:39:02.698 --> 00:39:04.008 position:19.52%,start align:start size:70.95% line:10.00% 
+<c.white><c.mono_sans>when Lieutenant Haj was injured?</c.mono_sans></c.white>
+
+1053
+00:39:02.698 --> 00:39:04.008 position:29.05%,start align:start size:53.81% line:15.33% 
+<c.white><c.mono_sans>She doesn't believe me.</c.mono_sans></c.white>
+
+1054
+00:39:04.478 --> 00:39:06.679 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>Frankly, I'm not sure</c.mono_sans></c.white>
+
+1055
+00:39:04.478 --> 00:39:06.679 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>I believe it happened myself.</c.mono_sans></c.white>
+
+1056
+00:39:07.238 --> 00:39:08.476 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>( Sisko clears throat )</c.mono_sans></c.white>
+
+1057
+00:39:08.517 --> 00:39:09.876 position:42.38%,start align:start size:27.14% line:84.62% 
+<c.white><c.mono_sans>Sir. Sir.</c.mono_sans></c.white>
+
+1058
+00:39:11.335 --> 00:39:12.476 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>Congratulations, Captain.</c.mono_sans></c.white>
+
+1059
+00:39:12.815 --> 00:39:14.996 position:36.67%,start align:start size:38.57% line:10.00% 
+<c.white><c.mono_sans>Thank you, sir.</c.mono_sans></c.white>
+
+1060
+00:39:12.815 --> 00:39:14.996 position:23.33%,start align:start size:63.33% line:15.33% 
+<c.white><c.mono_sans>Will you excuse me a minute?</c.mono_sans></c.white>
+
+1061
+00:39:14.633 --> 00:39:16.673 position:34.76%,start align:start size:42.38% line:79.29% 
+<c.white><c.mono_sans>-Julian needs me.</c.mono_sans></c.white>
+
+1062
+00:39:14.633 --> 00:39:16.673 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>-ADMIRAL: Certainly.</c.mono_sans></c.white>
+
+1063
+00:39:19.733 --> 00:39:20.313 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>Here you are.</c.mono_sans></c.white>
+
+1064
+00:39:21.413 --> 00:39:22.853 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>Don't ask where he got it.</c.mono_sans></c.white>
+
+1065
+00:39:23.452 --> 00:39:26.331 position:57.62%,start align:start size:32.86% line:79.29% 
+<c.white><c.mono_sans>Don't worry.</c.mono_sans></c.white>
+
+1066
+00:39:23.452 --> 00:39:26.331 position:40.48%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>I don't want to know.</c.mono_sans></c.white>
+
+1067
+00:39:27.611 --> 00:39:29.291 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>( door opens )</c.mono_sans></c.white>
+
+1068
+00:39:30.810 --> 00:39:32.575 position:65.24%,start align:start size:25.24% line:79.29% 
+<c.white><c.mono_sans>O'BRIEN:</c.mono_sans></c.white>
+
+1069
+00:39:30.810 --> 00:39:32.575 position:27.14%,start align:start size:63.33% line:84.62% 
+<c.white><c.mono_sans>Here's another one, Captain.</c.mono_sans></c.white>
+
+1070
+00:39:39.648 --> 00:39:40.888 position:32.86%,start align:start size:46.19% line:84.62% 
+<c.white><c.mono_sans>Take a good look...</c.mono_sans></c.white>
+
+1071
+00:39:41.726 --> 00:39:43.568 position:34.76%,start align:start size:42.38% line:10.00% 
+<c.white><c.mono_sans>because this says</c.mono_sans></c.white>
+
+1072
+00:39:41.726 --> 00:39:43.568 position:32.86%,start align:start size:46.19% line:15.33% 
+<c.white><c.mono_sans>something about us,</c.mono_sans></c.white>
+
+1073
+00:39:44.597 --> 00:39:45.947 position:25.24%,start align:start size:61.43% line:84.62% 
+<c.white><c.mono_sans>that we're willing to fight</c.mono_sans></c.white>
+
+1074
+00:39:46.645 --> 00:39:49.967 position:21.43%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>and that we'll keep on fighting</c.mono_sans></c.white>
+
+1075
+00:39:46.645 --> 00:39:49.967 position:25.24%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>until we can't fight anymore.</c.mono_sans></c.white>
+
+1076
+00:39:50.565 --> 00:39:52.424 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>CREW: Yes, sir!</c.mono_sans></c.white>
+
+1077
+00:39:52.643 --> 00:39:54.264 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>You don't throw something</c.mono_sans></c.white>
+
+1078
+00:39:52.643 --> 00:39:54.264 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>like this away.</c.mono_sans></c.white>
+
+1079
+00:39:54.403 --> 00:39:55.962 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>CREW: No, sir!</c.mono_sans></c.white>
+
+1080
+00:40:06.320 --> 00:40:07.399 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>Hear, hear.</c.mono_sans></c.white>
+
+1081
+00:40:10.718 --> 00:40:13.157 position:30.95%,start align:start size:50.00% line:79.29% 
+<c.white><c.mono_sans>-They're a good crew.</c.mono_sans></c.white>
+
+1082
+00:40:10.718 --> 00:40:13.157 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>-The best.</c.mono_sans></c.white>
+
+1083
+00:40:17.236 --> 00:40:19.276 position:36.67%,start align:start size:38.57% line:79.29% 
+<c.white><c.mono_sans>What do you say</c.mono_sans></c.white>
+
+1084
+00:40:17.236 --> 00:40:19.276 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>we get back to work?</c.mono_sans></c.white>
+
+1085
+00:40:48.667 --> 00:40:52.259 position:29.05%,start align:start size:53.81% line:73.96% 
+<c.white><c.mono_sans>What the hell happened?</c.mono_sans></c.white>
+
+1086
+00:40:48.667 --> 00:40:52.259 position:29.05%,start align:start size:51.90% line:79.29% 
+<c.white><c.mono_sans>Why didn't you disable</c.mono_sans></c.white>
+
+1087
+00:40:48.667 --> 00:40:52.259 position:40.48%,start align:start size:30.95% line:84.62% 
+<c.white><c.mono_sans>that alarm?</c.mono_sans></c.white>
+
+1088
+00:40:53.365 --> 00:40:54.686 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>It's difficult to explain.</c.mono_sans></c.white>
+
+1089
+00:40:54.943 --> 00:40:57.405 position:25.24%,start align:start size:61.43% line:10.00% 
+<c.white><c.mono_sans>Rom is sitting in a holding</c.mono_sans></c.white>
+
+1090
+00:40:54.943 --> 00:40:57.405 position:27.14%,start align:start size:55.71% line:15.33% 
+<c.white><c.mono_sans>cell being interrogated.</c.mono_sans></c.white>
+
+1091
+00:40:57.504 --> 00:41:00.465 position:29.05%,start align:start size:53.81% line:10.00% 
+<c.white><c.mono_sans>He was counting on you.</c.mono_sans></c.white>
+
+1092
+00:40:57.504 --> 00:41:00.465 position:29.05%,start align:start size:51.90% line:15.33% 
+<c.white><c.mono_sans>I was counting on you!</c.mono_sans></c.white>
+
+1093
+00:41:00.704 --> 00:41:03.182 position:42.38%,start align:start size:25.24% line:79.29% 
+<c.white><c.mono_sans>-I know.</c.mono_sans></c.white>
+
+1094
+00:41:00.704 --> 00:41:03.182 position:40.48%,start align:start size:29.05% line:84.62% 
+<c.white><c.mono_sans>-You know?</c.mono_sans></c.white>
+
+1095
+00:41:03.602 --> 00:41:05.363 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>Do you realize</c.mono_sans></c.white>
+
+1096
+00:41:03.602 --> 00:41:05.363 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>what you just did?</c.mono_sans></c.white>
+
+1097
+00:41:05.501 --> 00:41:08.322 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>You just handed the Alpha</c.mono_sans></c.white>
+
+1098
+00:41:05.501 --> 00:41:08.322 position:27.14%,start align:start size:57.62% line:84.62% 
+<c.white><c.mono_sans>Quadrant to the Dominion.</c.mono_sans></c.white>
+
+1099
+00:41:08.880 --> 00:41:10.040 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>I was in the Link.</c.mono_sans></c.white>
+
+1100
+00:41:11.411 --> 00:41:12.941 position:25.24%,start align:start size:59.52% line:84.62% 
+<c.white><c.mono_sans>Are you saying you forgot?</c.mono_sans></c.white>
+
+1101
+00:41:13.259 --> 00:41:14.099 position:34.76%,start align:start size:40.48% line:84.62% 
+<c.white><c.mono_sans>I didn't forget.</c.mono_sans></c.white>
+
+1102
+00:41:15.039 --> 00:41:16.620 position:40.48%,start align:start size:29.05% line:79.29% 
+<c.white><c.mono_sans>It just...</c.mono_sans></c.white>
+
+1103
+00:41:15.039 --> 00:41:16.620 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>didn't seem to matter.</c.mono_sans></c.white>
+
+1104
+00:41:17.818 --> 00:41:21.360 position:27.14%,start align:start size:57.62% line:79.29% 
+<c.white><c.mono_sans>A lot of people are going</c.mono_sans></c.white>
+
+1105
+00:41:17.818 --> 00:41:21.360 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>to die. Don't you care?</c.mono_sans></c.white>
+
+1106
+00:41:22.875 --> 00:41:24.756 position:23.33%,start align:start size:65.24% line:84.62% 
+<c.white><c.mono_sans>It has nothing to do with me.</c.mono_sans></c.white>
+
+1107
+00:41:26.826 --> 00:41:28.175 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>How can you say that?</c.mono_sans></c.white>
+
+1108
+00:41:30.433 --> 00:41:32.195 position:29.05%,start align:start size:53.81% line:79.29% 
+<c.white><c.mono_sans>If you could experience</c.mono_sans></c.white>
+
+1109
+00:41:30.433 --> 00:41:32.195 position:42.38%,start align:start size:25.24% line:84.62% 
+<c.white><c.mono_sans>the Link</c.mono_sans></c.white>
+
+1110
+00:41:33.274 --> 00:41:35.295 position:36.67%,start align:start size:36.67% line:79.29% 
+<c.white><c.mono_sans>you'd know why</c.mono_sans></c.white>
+
+1111
+00:41:33.274 --> 00:41:35.295 position:30.95%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>nothing else matters.</c.mono_sans></c.white>
+
+1112
+00:41:35.672 --> 00:41:37.532 position:30.95%,start align:start size:48.10% line:84.62% 
+<c.white><c.mono_sans>The last five years,</c.mono_sans></c.white>
+
+1113
+00:41:38.731 --> 00:41:42.094 position:19.52%,start align:start size:69.05% line:79.29% 
+<c.white><c.mono_sans>your life here, our friendship,</c.mono_sans></c.white>
+
+1114
+00:41:38.731 --> 00:41:42.094 position:19.52%,start align:start size:50.00% line:84.62% 
+<c.white><c.mono_sans>none of that matters?</c.mono_sans></c.white>
+
+1115
+00:41:42.510 --> 00:41:43.831 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>It did... once.</c.mono_sans></c.white>
+
+1116
+00:41:46.730 --> 00:41:49.411 position:36.67%,start align:start size:36.67% line:73.96% 
+<c.white><c.mono_sans>I wish I could</c.mono_sans></c.white>
+
+1117
+00:41:46.730 --> 00:41:49.411 position:32.86%,start align:start size:46.19% line:79.29% 
+<c.white><c.mono_sans>make you understand</c.mono_sans></c.white>
+
+1118
+00:41:46.730 --> 00:41:49.411 position:36.67%,start align:start size:36.67% line:84.62% 
+<c.white><c.mono_sans>but you can't.</c.mono_sans></c.white>
+
+1119
+00:41:50.449 --> 00:41:52.168 position:27.14%,start align:start size:55.71% line:84.62% 
+<c.white><c.mono_sans>You're not a changeling.</c.mono_sans></c.white>
+
+1120
+00:41:53.567 --> 00:41:54.646 position:38.57%,start align:start size:34.76% line:84.62% 
+<c.white><c.mono_sans>You're right.</c.mono_sans></c.white>
+
+1121
+00:41:56.366 --> 00:41:57.365 position:38.57%,start align:start size:32.86% line:84.62% 
+<c.white><c.mono_sans>I'm a solid.</c.mono_sans></c.white>
+
+1122
+00:42:03.924 --> 00:42:06.962 position:29.05%,start align:start size:51.90% line:84.62% 
+<c.white><c.mono_sans>( door opens, closes )</c.mono_sans></c.white>
+
+1123
+00:42:13.118 --> 00:42:14.960 position:29.05%,start align:start size:53.81% line:84.62% 
+<c.white><c.mono_sans>You look troubled, Odo.</c.mono_sans></c.white>
+
+1124
+00:42:15.561 --> 00:42:17.240 position:32.86%,start align:start size:44.29% line:84.62% 
+<c.white><c.mono_sans>Did she upset you?</c.mono_sans></c.white>
+
+1125
+00:42:20.899 --> 00:42:22.900 position:36.67%,start align:start size:38.57% line:84.62% 
+<c.white><c.mono_sans>No, not really.</c.mono_sans></c.white>
+
+1126
+00:42:25.738 --> 00:42:26.818 position:48.10%,start align:start size:15.71% line:84.62% 
+<c.white><c.mono_sans>Ah.</c.mono_sans></c.white>
+
